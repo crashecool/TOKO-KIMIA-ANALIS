@@ -1,0 +1,18 @@
+# Dependencies — di-install ulang otomatis oleh GitHub Actions / npm install
+node_modules/
+
+# Kredensial Google Sheets — JANGAN pernah commit ini ke repo publik
+credentials.json
+
+# Hasil scrape mentah (sementara) — yang penting adalah docs/data.json
+sigma-data.json
+
+# PDF katalog — biasanya besar, dan mungkin bukan untuk didistribusikan publik
+*.pdf
+
+# Referensi lengkap katalog (bisa besar, regenerate kapan saja lewat generate-urls.js)
+all-products.csv
+
+# OS/editor
+.DS_Store
+Thumbs.db

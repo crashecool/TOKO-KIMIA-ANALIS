@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Katalog Reagen — Merck &amp; Sigma-Aldrich</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">⬡</span>
+        <div class="brand-text">
+          <span class="brand-name">KIMIA ANALIS TOPED</span>
+          <span class="brand-sub">Distributor bahan kimia analitik</span>
+        </div>
+      </div>
+      <nav class="main-nav">
+        <a href="index.html">Beranda</a>
+        <a href="katalog.html" class="active">Produk / Katalog</a>
+        <a href="tentang.html">Tentang Kami</a>
+        <a href="cara-pesan.html">Cara Pemesanan</a>
+        <a href="msds.html">Unduh MSDS/SDS</a>
+        <a href="kontak.html">Kontak</a>
+        <a href="faq.html">FAQ</a>
+      </nav>
+      <div class="header-meta">
+        <span class="data-pill" id="lastUpdatePill">memuat data…</span>
+      </div>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="hero-inner">
+      <p class="eyebrow">Katalog produk / uji coba lokal</p>
+      <h1>Cek stok &amp; harga reagen<br>tanpa buka tab lain.</h1>
+      <p class="hero-desc">Cek status stok reagen di sini. Status <strong>Ready</strong> berarti siap kirim hari itu, <strong>Indent</strong> berarti pesanan menunggu pemenuhan dari prinsipal. Untuk harga terbaru &amp; pemesanan, klik tombol WhatsApp di tiap produk.</p>
+      <div class="search-row">
+        <input type="text" id="searchInput" placeholder="Cari nama produk, No. Katalog, atau CAS number…" autocomplete="off" />
+      </div>
+      <div class="filter-row">
+        <span class="result-count" id="resultCount"></span>
+      </div>
+    </div>
+  </section>
+
+  <main class="catalog" id="catalog">
+    <!-- Produk di-render oleh app.js -->
+  </main>
+
+  <template id="productCardTemplate">
+    <article class="product-card">
+      <div class="label-tag">
+        <span class="label-catalog"></span>
+        <span class="label-cas"></span>
+      </div>
+      <h2 class="product-name"></h2>
+      <a class="whatsapp-link" href="#" target="_blank" rel="noopener">
+        <span class="wa-icon">●</span> Tanya harga &amp; stok via WhatsApp
+      </a>
+      <div class="source-note"></div>
+      <table class="variant-table">
+        <thead>
+          <tr>
+            <th>Ukuran</th>
+            <th>SKU</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </article>
+  </template>
+
+  <footer class="site-footer">
+    <p>Dijalankan lokal untuk uji coba. Sumber data: scraper Playwright + Daftar_Harga_Merck_2020.pdf (referensi). Bukan situs resmi Merck/Sigma-Aldrich.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

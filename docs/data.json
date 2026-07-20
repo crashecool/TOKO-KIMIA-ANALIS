@@ -1,0 +1,546 @@
+{
+  "generatedNote": "Terakhir digabung dari hasil scrape: 2026-07-20T01:29:36.428Z",
+  "products": [
+    {
+      "name": "Ethanol Absolute for Analysis EMSURE ACS,ISO,Reag. Ph Eur",
+      "catalogNo": "1.00983",
+      "casNumber": "64-17-5",
+      "category": "Pelarut",
+      "regulatoryType": "Ethanol (Kena Cukai)",
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100983",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-20T01:26:39.903Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00983.1011",
+          "status": "Indent",
+          "location": null,
+          "price": 500000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.00983.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 550000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00983.2511",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1042000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00983.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1146000
+        },
+        {
+          "size": "5 L",
+          "sku": "1.00983.5000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1876000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.00983.6010",
+          "status": "Indent",
+          "location": null,
+          "price": 3739000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00983.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 6204000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00983.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 6660000
+        },
+        {
+          "size": "180 L",
+          "sku": "1.00983.9180",
+          "status": "Indent",
+          "location": null,
+          "price": 38005000
+        }
+      ]
+    },
+    {
+      "name": "Acetone for Analysis EMSURE",
+      "catalogNo": "1.00014",
+      "casNumber": "67-64-1",
+      "category": "Pelarut",
+      "regulatoryType": "Prekursor",
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100014",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-20T01:25:18.140Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00014.1011",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 352000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.00014.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 387000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00014.2511",
+          "status": "Indent",
+          "location": null,
+          "price": 732000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00014.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 804000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.00014.4000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1287000
+        },
+        {
+          "size": "5 L",
+          "sku": "1.00014.5000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1317000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.00014.6010",
+          "status": "Indent",
+          "location": null,
+          "price": 2785000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00014.6025",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4676000
+        },
+        {
+          "size": "180 L",
+          "sku": "1.00014.9180",
+          "status": "Indent",
+          "location": null,
+          "price": 26683000
+        },
+        {
+          "size": "190 L",
+          "sku": "1.00014.6190",
+          "status": "Indent",
+          "location": null,
+          "price": 30241000
+        }
+      ]
+    },
+    {
+      "name": "Methanol for Analysis EMSURE",
+      "catalogNo": "1.06009",
+      "casNumber": "67-56-1",
+      "category": "Pelarut",
+      "regulatoryType": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/106009",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-20T01:28:01.032Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.06009.1011",
+          "status": "Indent",
+          "location": null,
+          "price": 288000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.06009.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 317000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.06009.2511",
+          "status": "Indent",
+          "location": null,
+          "price": 599000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.06009.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 658000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.06009.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 1054000
+        },
+        {
+          "size": "5 L",
+          "sku": "1.06009.5000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1079000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.06009.6010",
+          "status": "Indent",
+          "location": null,
+          "price": 2608000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.06009.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 3565000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.06009.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 3828000
+        },
+        {
+          "size": "180 L",
+          "sku": "1.06009.9180",
+          "status": "Indent",
+          "location": null,
+          "price": 21841000
+        }
+      ]
+    },
+    {
+      "name": "Sulfuric Acid 95-97% for Analysis EMSURE",
+      "catalogNo": "1.00731",
+      "casNumber": "7664-93-9",
+      "category": "Asam",
+      "regulatoryType": "Prekursor",
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100731",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-20T01:26:12.545Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00731.1011",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 612000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.00731.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 672000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00731.2511",
+          "status": "Indent",
+          "location": null,
+          "price": 809000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00731.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 881000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00731.2510",
+          "status": "Indent",
+          "location": null,
+          "price": 1160000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00731.9025",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4956000
+        },
+        {
+          "size": "200 L",
+          "sku": "1.00731.9201",
+          "status": "Indent",
+          "location": null,
+          "price": 42791000
+        }
+      ]
+    },
+    {
+      "name": "Hydrochloric Acid 25% for Analysis EMSURE",
+      "catalogNo": "1.00316",
+      "casNumber": "7647-01-0",
+      "category": "Asam",
+      "regulatoryType": "Prekursor",
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100316",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-20T01:25:45.419Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00316.1011",
+          "status": "Indent",
+          "location": null,
+          "price": 740000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.00316.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 813000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00316.2511",
+          "status": "Indent",
+          "location": null,
+          "price": 1452000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00316.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1595000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00316.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 5924000
+        }
+      ]
+    },
+    {
+      "name": "1-Propanol",
+      "catalogNo": "1.00997",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100997",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-20T01:27:06.862Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00997.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3055000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00997.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6366000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00997.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 37014000
+        }
+      ]
+    },
+    {
+      "name": "Ammonia solution",
+      "catalogNo": "1.05432",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/105432",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-20T01:27:33.818Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.05432.1011",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 773000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.05432.2511",
+          "status": "Indent",
+          "location": null,
+          "price": 1470000
+        },
+        {
+          "size": "5 L",
+          "sku": "1.05432.5000",
+          "status": "Indent",
+          "location": null,
+          "price": 2799000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.05432.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 6766000
+        }
+      ]
+    },
+    {
+      "name": "Toluene",
+      "catalogNo": "1.08325",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108325",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-20T01:28:28.696Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.08325.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 475000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.08325.2511",
+          "status": "Indent",
+          "location": null,
+          "price": 900000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.08325.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 990000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.08325.6010",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3229000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.08325.6025",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5751000
+        }
+      ]
+    },
+    {
+      "name": "2-Propanol",
+      "catalogNo": "1.09634",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109634",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-20T01:28:56.023Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09634.1011",
+          "status": "Indent",
+          "location": null,
+          "price": 357000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09634.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 393000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09634.2511",
+          "status": "Indent",
+          "location": null,
+          "price": 744000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09634.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 817000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.09634.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 1308000
+        },
+        {
+          "size": "5 L",
+          "sku": "1.09634.5000",
+          "status": "Indent",
+          "location": null,
+          "price": 1340000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09634.6010",
+          "status": "Indent",
+          "location": null,
+          "price": 3067000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.09634.6025",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4755000
+        },
+        {
+          "size": "180 L",
+          "sku": "1.09634.9180",
+          "status": "Indent",
+          "location": null,
+          "price": 27135000
+        },
+        {
+          "size": "190 L",
+          "sku": "1.09634.6190",
+          "status": "Indent",
+          "location": null,
+          "price": 30755000
+        }
+      ]
+    }
+  ]
+}

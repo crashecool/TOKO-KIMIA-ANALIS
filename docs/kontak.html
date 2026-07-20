@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Kontak — KIMIA ANALIS TOPED</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">⬡</span>
+        <div class="brand-text">
+          <span class="brand-name">KIMIA ANALIS TOPED</span>
+          <span class="brand-sub">Distributor bahan kimia analitik</span>
+        </div>
+      </div>
+      <nav class="main-nav">
+        <a href="index.html">Beranda</a>
+        <a href="katalog.html">Produk / Katalog</a>
+        <a href="tentang.html">Tentang Kami</a>
+        <a href="cara-pesan.html">Cara Pemesanan</a>
+        <a href="msds.html">Unduh MSDS/SDS</a>
+        <a href="kontak.html" class="active">Kontak</a>
+        <a href="faq.html">FAQ</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="page-hero">
+    <div class="page-hero-inner">
+      <h1>Kontak Kami</h1>
+      <p>Ada pertanyaan soal produk, harga, atau pemesanan? Hubungi kami lewat salah satu kanal di bawah.</p>
+    </div>
+  </section>
+
+  <section class="content-section">
+    <div class="contact-grid">
+      <div class="contact-card">
+        <span class="contact-icon">●</span>
+        <h3>WhatsApp</h3>
+        <p id="waDisplay">[Nomor WA — otomatis dari app.js]</p>
+        <a class="cta-button" id="waContactBtn" href="#" target="_blank" rel="noopener">Chat Sekarang</a>
+      </div>
+      <div class="contact-card">
+        <span class="contact-icon">✉</span>
+        <h3>Email</h3>
+        <p>[Placeholder — isi email bisnis kamu]</p>
+        <a class="cta-button" href="mailto:info@kimiaanalistoped.com">Kirim Email</a>
+      </div>
+      <div class="contact-card">
+        <span class="contact-icon">◉</span>
+        <h3>Alamat</h3>
+        <p>[Placeholder — isi alamat gudang/kantor kamu]</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="content-section">
+    <h2>Jam Operasional</h2>
+    <p>[Placeholder — contoh: Senin–Jumat, 08.00–17.00 WIB. Di luar jam ini, pesan WhatsApp akan dibalas di jam kerja berikutnya.]</p>
+  </section>
+
+  <footer class="site-footer">
+    <p>Dijalankan lokal untuk uji coba. Sumber data: scraper Playwright + Daftar_Harga_Merck_2020.pdf (referensi). Bukan situs resmi Merck/Sigma-Aldrich.</p>
+  </footer>
+
+  <script>
+    // Ambil nomor WA yang sama dengan yang dipakai di katalog (app.js),
+    // supaya cuma perlu ganti di satu tempat.
+    const WHATSAPP_NUMBER = '6289652809692'; // GANTI SAMA SEPERTI DI app.js
+    document.getElementById('waDisplay').textContent = '+' + WHATSAPP_NUMBER;
+    document.getElementById('waContactBtn').href =
+      'https://wa.me/' + WHATSAPP_NUMBER + '?text=' + encodeURIComponent('Halo, saya mau tanya soal produk bahan kimia.');
+  </script>
+
+</body>
+</html>

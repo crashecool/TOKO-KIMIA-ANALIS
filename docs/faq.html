@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>FAQ — KIMIA ANALIS TOPED</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">⬡</span>
+        <div class="brand-text">
+          <span class="brand-name">KIMIA ANALIS TOPED</span>
+          <span class="brand-sub">Distributor bahan kimia analitik</span>
+        </div>
+      </div>
+      <nav class="main-nav">
+        <a href="index.html">Beranda</a>
+        <a href="katalog.html">Produk / Katalog</a>
+        <a href="tentang.html">Tentang Kami</a>
+        <a href="cara-pesan.html">Cara Pemesanan</a>
+        <a href="msds.html">Unduh MSDS/SDS</a>
+        <a href="kontak.html">Kontak</a>
+        <a href="faq.html" class="active">FAQ</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="page-hero">
+    <div class="page-hero-inner">
+      <h1>Pertanyaan Umum</h1>
+      <p>Belum ketemu jawabannya? Tanya langsung lewat <a href="kontak.html">WhatsApp</a>.</p>
+    </div>
+  </section>
+
+  <section class="content-section">
+    <div class="faq-list" id="faqList">
+      <div class="faq-item">
+        <button class="faq-question">
+          Kenapa harga tidak ditampilkan di situs?
+          <span class="faq-plus">+</span>
+        </button>
+        <div class="faq-answer">
+          <p>Harga bahan kimia sering berubah mengikuti kurs dan ketersediaan stok dari prinsipal, jadi kami pastikan kamu selalu dapat harga terbaru lewat konfirmasi langsung via WhatsApp, bukan harga yang mungkin sudah kedaluwarsa di situs.</p>
+        </div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-question">
+          Apa bedanya status "Ready" dan "Indent"?
+          <span class="faq-plus">+</span>
+        </button>
+        <div class="faq-answer">
+          <p><strong>Ready</strong> berarti barang siap dikirim hari itu juga dari gudang. <strong>Indent</strong> berarti pesanan menunggu pemenuhan dari prinsipal, biasanya butuh waktu tambahan — tanyakan estimasinya saat chat WhatsApp.</p>
+        </div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-question">
+          Apakah ada minimum order (MOQ)?
+          <span class="faq-plus">+</span>
+        </button>
+        <div class="faq-answer">
+          <p>[Placeholder — isi kebijakan MOQ kamu, kalau ada.]</p>
+        </div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-question">
+          Metode pembayaran apa saja yang diterima?
+          <span class="faq-plus">+</span>
+        </button>
+        <div class="faq-answer">
+          <p>[Placeholder — isi metode pembayaran, mis. transfer bank BCA/Mandiri, dll.]</p>
+        </div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-question">
+          Apakah bisa kirim ke luar kota/pulau?
+          <span class="faq-plus">+</span>
+        </button>
+        <div class="faq-answer">
+          <p>[Placeholder — isi jangkauan pengiriman dan ekspedisi yang dipakai. Untuk bahan kimia tertentu, ada pembatasan pengiriman via udara — jelaskan kalau relevan.]</p>
+        </div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-question">
+          Produk yang saya cari tidak ada di katalog, apa masih bisa dipesan?
+          <span class="faq-plus">+</span>
+        </button>
+        <div class="faq-answer">
+          <p>Kemungkinan besar bisa. Katalog di situs ini baru menampilkan sebagian produk. Tanyakan langsung lewat WhatsApp dengan menyebutkan nama produk atau No. Katalog Merck/Sigma-Aldrich-nya.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <p>Dijalankan lokal untuk uji coba. Sumber data: scraper Playwright + Daftar_Harga_Merck_2020.pdf (referensi). Bukan situs resmi Merck/Sigma-Aldrich.</p>
+  </footer>
+
+  <script>
+    document.querySelectorAll('.faq-question').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        btn.closest('.faq-item').classList.toggle('open');
+      });
+    });
+  </script>
+
+</body>
+</html>

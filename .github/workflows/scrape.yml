@@ -1,0 +1,58 @@
+name: Scrape Sigma-Aldrich prices & stock
+
+on:
+  schedule:
+    # Jalan tiap hari jam 06:00 WIB (23:00 UTC hari sebelumnya)
+    - cron: '0 23 * * *'
+  workflow_dispatch: {} # bisa dipicu manual dari tab Actions di GitHub
+
+permissions:
+  contents: write # supaya Action boleh commit & push balik ke repo
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Playwright browsers
+        run: npx playwright install --with-deps chromium
+
+      - name: Run scraper
+        run: node scrape.js --file urls.txt
+        env:
+          DELAY_MS: 5000
+
+      - name: Merge hasil scrape ke docs/data.json
+        run: node merge-to-site.js
+
+      - name: Commit & push data.json kalau ada perubahan
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data.json
+          if git diff --cached --quiet; then
+            echo "Tidak ada perubahan data, skip commit."
+          else
+            git commit -m "chore: update data stok/harga otomatis $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+      # --- Opsional: kalau nanti kamu tetap mau sinkron ke Google Sheets juga ---
+      # - name: Restore credentials.json from secret
+      #   run: echo "${{ secrets.GOOGLE_CREDENTIALS_JSON_BASE64 }}" | base64 -d > credentials.json
+      # - name: Push to Google Sheets
+      #   run: node update-sheet.js
+      #   env:
+      #     SHEET_ID: ${{ secrets.SHEET_ID }}
+      #     SHEET_TAB: Data
+      # - name: Clean up credentials
+      #   if: always()
+      #   run: rm -f credentials.json

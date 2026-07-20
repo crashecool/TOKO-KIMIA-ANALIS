@@ -1,0 +1,22 @@
+{
+  "name": "sigma-scraper",
+  "version": "1.0.0",
+  "description": "Scraper harga & status stok produk Sigma-Aldrich untuk sinkron ke Google Sheets",
+  "main": "scrape.js",
+  "scripts": {
+    "scrape": "node scrape.js",
+    "scrape:debug": "cross-env HEADLESS=false node scrape.js",
+    "update-sheet": "node update-sheet.js",
+    "test-parser": "node parse.js",
+    "merge-to-site": "node merge-to-site.js",
+    "generate-urls": "node generate-urls.js"
+  },
+  "dependencies": {
+    "playwright": "^1.45.0",
+    "googleapis": "^140.0.0",
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
