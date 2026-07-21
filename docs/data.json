@@ -603,6 +603,30 @@
           "price": 5704000
         }
       ]
+    },
+    {
+      "name": "Acetonitrile",
+      "catalogNo": "1.00016",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100016",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:22:24.959Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00016.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2548000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00016.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 5842000
+        }
+      ]
     }
   ]
 }
