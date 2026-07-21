@@ -309,7 +309,7 @@
       "regulatoryType": "Prekursor",
       "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100316",
       "source": "live_scrape",
-      "scrapedAt": "2026-07-20T01:25:45.419Z",
+      "scrapedAt": "2026-07-21T12:49:49.954Z",
       "variants": [
         {
           "size": "1 L",
@@ -1062,6 +1062,99 @@
           "status": "Indent",
           "location": null,
           "price": 18471000
+        }
+      ]
+    },
+    {
+      "name": "Hydrochloric acid",
+      "catalogNo": "1.00313",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100313",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:49:27.329Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.00313.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1248000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00313.9025",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5100000
+        },
+        {
+          "size": "180 L",
+          "sku": "1.00313.9180",
+          "status": "Indent",
+          "location": null,
+          "price": 27539000
+        }
+      ]
+    },
+    {
+      "name": "Hydrochloric acid",
+      "catalogNo": "1.00317",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100317",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:50:11.503Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00317.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 694000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00317.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 957000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00317.2510",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1178000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00317.9026",
+          "status": "Indent",
+          "location": null,
+          "price": 6440000
+        },
+        {
+          "size": "200 L",
+          "sku": "1.00317.9200",
+          "status": "Indent",
+          "location": null,
+          "price": 38635000
+        }
+      ]
+    },
+    {
+      "name": "Hydrochloric acid",
+      "catalogNo": "1.00318",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100318",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:50:33.513Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00318.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 6457000
         }
       ]
     }
