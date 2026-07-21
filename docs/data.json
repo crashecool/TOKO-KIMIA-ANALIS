@@ -84,7 +84,7 @@
       "regulatoryType": "Prekursor",
       "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100014",
       "source": "live_scrape",
-      "scrapedAt": "2026-07-20T01:25:18.140Z",
+      "scrapedAt": "2026-07-21T12:21:48.166Z",
       "variants": [
         {
           "size": "1 L",
@@ -539,6 +539,68 @@
           "status": "Indent",
           "location": null,
           "price": 30755000
+        }
+      ]
+    },
+    {
+      "name": "Acetonitrile",
+      "catalogNo": "1.00003",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100003",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:20:56.681Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00003.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2029000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00003.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4224000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00003.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 24566000
+        }
+      ]
+    },
+    {
+      "name": "Acetone",
+      "catalogNo": "1.00012",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100012",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:21:22.218Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00012.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1792000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00012.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3726000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.00012.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 5704000
         }
       ]
     }
