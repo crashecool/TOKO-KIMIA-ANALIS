@@ -627,6 +627,330 @@
           "price": 5842000
         }
       ]
+    },
+    {
+      "name": "Acetonitrile",
+      "catalogNo": "1.00017",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100017",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:26:28.446Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00017.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2389000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00017.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 5090000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.00017.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 5560000
+        }
+      ]
+    },
+    {
+      "name": "Acetone",
+      "catalogNo": "1.00020",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100020",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:26:53.348Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00020.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1803000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00020.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3856000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.00020.4000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6164000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.00020.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 15622000
+        }
+      ]
+    },
+    {
+      "name": "Acetone",
+      "catalogNo": "1.00022",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100022",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:27:37.122Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.00022.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3095000
+        }
+      ]
+    },
+    {
+      "name": "Acetonitrile",
+      "catalogNo": "1.00029",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100029",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:28:23.241Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00029.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4574000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00029.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 9522000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.00029.4000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 10009000
+        }
+      ]
+    },
+    {
+      "name": "Acetonitrile",
+      "catalogNo": "1.00030",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100030",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:28:45.634Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00030.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2406000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00030.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4556000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.00030.4000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4902000
+        },
+        {
+          "size": "30 L",
+          "sku": "1.00030.9030",
+          "status": "Indent",
+          "location": null,
+          "price": 30807000
+        },
+        {
+          "size": "185 L",
+          "sku": "1.00030.9185",
+          "status": "Indent",
+          "location": null,
+          "price": 163635000
+        }
+      ]
+    },
+    {
+      "name": "1,1,2,2-Tetrabromoethane",
+      "catalogNo": "1.00034",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100034",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:29:12.499Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00034.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 8205000
+        }
+      ]
+    },
+    {
+      "name": "Acetic anhydride",
+      "catalogNo": "1.00042",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100042",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:29:35.667Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00042.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2633000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00042.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 5163000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00042.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 19176000
+        }
+      ]
+    },
+    {
+      "name": "Acetic acid",
+      "catalogNo": "1.00062",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100062",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:31:53.002Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00062.1011",
+          "status": "Indent",
+          "location": null,
+          "price": 779000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.00062.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 857000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00062.2511",
+          "status": "Indent",
+          "location": null,
+          "price": 1527000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00062.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1678000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00062.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 6232000
+        }
+      ]
+    },
+    {
+      "name": "Acetic acid (glacial)",
+      "catalogNo": "1.00063",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100063",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:32:15.776Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00063.1011",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 658000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.00063.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 720000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00063.2511",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 850000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00063.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 933000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00063.2510",
+          "status": "Indent",
+          "location": null,
+          "price": 978000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00063.9026",
+          "status": "Indent",
+          "location": null,
+          "price": 6232000
+        }
+      ]
+    },
+    {
+      "name": "Acetic acid (glacial)",
+      "catalogNo": "1.00066",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100066",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:32:38.895Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00066.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 8143000
+        }
+      ]
     }
   ]
 }
