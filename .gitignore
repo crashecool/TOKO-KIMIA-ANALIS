@@ -7,6 +7,9 @@ credentials.json
 # Hasil scrape mentah (sementara) — yang penting adalah docs/data.json
 sigma-data.json
 
+# File sementara per-batch dari expand-catalog.js
+new-batch-urls.txt
+
 # PDF katalog — biasanya besar, dan mungkin bukan untuk didistribusikan publik
 *.pdf
 
