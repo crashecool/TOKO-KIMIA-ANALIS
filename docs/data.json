@@ -951,6 +951,119 @@
           "price": 8143000
         }
       ]
+    },
+    {
+      "name": "N,N-Dimethylformamide",
+      "catalogNo": "1.00202",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100202",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:41:56.227Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00202.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5013000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00202.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 9368000
+        }
+      ]
+    },
+    {
+      "name": "Formic acid",
+      "catalogNo": "1.00264",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100264",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:45:18.197Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00264.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1610000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00264.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3155000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00264.9026",
+          "status": "Indent",
+          "location": null,
+          "price": 11719000
+        },
+        {
+          "size": "200 L",
+          "sku": "1.00264.9200",
+          "status": "Indent",
+          "location": null,
+          "price": 70314000
+        }
+      ]
+    },
+    {
+      "name": "2-Propanol",
+      "catalogNo": "1.00272",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100272",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:47:28.539Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.00272.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 4374000
+        }
+      ]
+    },
+    {
+      "name": "Hydrobromic acid",
+      "catalogNo": "1.00304",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100304",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:48:36.005Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.00304.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 16130000
+        }
+      ]
+    },
+    {
+      "name": "Hydrobromic acid",
+      "catalogNo": "1.00306",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100306",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-21T12:49:00.068Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00306.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 18471000
+        }
+      ]
     }
   ]
 }
