@@ -1438,6 +1438,150 @@
           "price": 4957000
         }
       ]
+    },
+    {
+      "name": "Nitric acid",
+      "catalogNo": "1.00456",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100456",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:26:20.908Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00456.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1458000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00456.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1972000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00456.2510",
+          "status": "Indent",
+          "location": null,
+          "price": 2060000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00456.9026",
+          "status": "Indent",
+          "location": null,
+          "price": 8047000
+        }
+      ]
+    },
+    {
+      "name": "Water",
+      "catalogNo": "1.00473",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100473",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:28:08.545Z",
+      "variants": [
+        {
+          "size": "5 L",
+          "sku": "1.00473.5000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 13557000
+        }
+      ]
+    },
+    {
+      "name": "Perchloric acid 70%",
+      "catalogNo": "1.00517",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100517",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:31:46.972Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00517.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 19429000
+        }
+      ]
+    },
+    {
+      "name": "Perchloric acid",
+      "catalogNo": "1.00518",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100518",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:32:08.455Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00518.1016",
+          "status": "Indent",
+          "location": null,
+          "price": 25169000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00518.2514",
+          "status": "Indent",
+          "location": null,
+          "price": 32867000
+        }
+      ]
+    },
+    {
+      "name": "Perchloric acid",
+      "catalogNo": "1.00519",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100519",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:32:30.175Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00519.1001",
+          "status": "Indent",
+          "location": null,
+          "price": 5484000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00519.2510",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 11231000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00519.2514",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 36519000
+        }
+      ]
+    },
+    {
+      "name": "ortho-Phosphoric acid",
+      "catalogNo": "1.00552",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100552",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:35:04.874Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00552.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 25921000
+        }
+      ]
     }
   ]
 }
