@@ -1582,6 +1582,68 @@
           "price": 25921000
         }
       ]
+    },
+    {
+      "name": "ortho-Phosphoric acid",
+      "catalogNo": "1.00573",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100573",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:36:38.004Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00573.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2536000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00573.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3987000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00573.2510",
+          "status": "Indent",
+          "location": null,
+          "price": 4578000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00573.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 16275000
+        },
+        {
+          "size": "200 L",
+          "sku": "1.00573.9200",
+          "status": "Indent",
+          "location": null,
+          "price": 97645000
+        }
+      ]
+    },
+    {
+      "name": "NMP",
+      "catalogNo": "1.00574",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100574",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:37:01.028Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.00574.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 7636000
+        }
+      ]
     }
   ]
 }
