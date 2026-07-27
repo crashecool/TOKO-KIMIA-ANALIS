@@ -1157,6 +1157,198 @@
           "price": 6457000
         }
       ]
+    },
+    {
+      "name": "Hydrochloric acid",
+      "catalogNo": "1.00319",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100319",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:01:40.152Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00319.1011",
+          "status": "Indent",
+          "location": null,
+          "price": 772000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.00319.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 850000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00319.2511",
+          "status": "Indent",
+          "location": null,
+          "price": 1515000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00319.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1664000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00319.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 6182000
+        }
+      ]
+    },
+    {
+      "name": "Hydrogen chloride solution",
+      "catalogNo": "1.00326",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100326",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:02:01.711Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00326.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1807000
+        }
+      ]
+    },
+    {
+      "name": "Hydrofluoric acid",
+      "catalogNo": "1.00334",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100334",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:02:45.852Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00334.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2607000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00334.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4159000
+        },
+        {
+          "size": "5 L",
+          "sku": "1.00334.5000",
+          "status": "Indent",
+          "location": null,
+          "price": 7915000
+        }
+      ]
+    },
+    {
+      "name": "Hydrofluoric acid",
+      "catalogNo": "1.00335",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100335",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:03:08.523Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.00335.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6701000
+        }
+      ]
+    },
+    {
+      "name": "Hydrofluoric acid",
+      "catalogNo": "1.00337",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100337",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:03:29.892Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00337.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1519000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00337.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2977000
+        }
+      ]
+    },
+    {
+      "name": "Hydrofluoric acid",
+      "catalogNo": "1.00338",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100338",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:03:51.418Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00338.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1928000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00338.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3781000
+        }
+      ]
+    },
+    {
+      "name": "Hydroiodic acid",
+      "catalogNo": "1.00341",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100341",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:04:13.206Z",
+      "variants": [
+        {
+          "size": "22 L",
+          "sku": "1.00341.9022",
+          "status": "Indent",
+          "location": null,
+          "price": 177420000
+        }
+      ]
+    },
+    {
+      "name": "Hydroiodic acid",
+      "catalogNo": "1.00344",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100344",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:04:34.890Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00344.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 15888000
+        }
+      ]
     }
   ]
 }
