@@ -1366,6 +1366,78 @@
           "price": 5375000
         }
       ]
+    },
+    {
+      "name": "Nitric acid",
+      "catalogNo": "1.00441",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100441",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:17:18.925Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00441.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 8968000
+        }
+      ]
+    },
+    {
+      "name": "Nitric acid",
+      "catalogNo": "1.00443",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100443",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:17:41.283Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00443.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 754000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00443.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1479000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00443.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 6035000
+        }
+      ]
+    },
+    {
+      "name": "Nitric acid",
+      "catalogNo": "1.00452",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100452",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:18:25.151Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00452.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2527000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00452.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4957000
+        }
+      ]
     }
   ]
 }
