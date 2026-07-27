@@ -9,7 +9,7 @@
       "regulatoryType": "Ethanol (Kena Cukai)",
       "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100983",
       "source": "live_scrape",
-      "scrapedAt": "2026-07-20T01:26:39.903Z",
+      "scrapedAt": "2026-07-27T07:18:10.762Z",
       "variants": [
         {
           "size": "1 L",
@@ -248,7 +248,7 @@
       "regulatoryType": "Prekursor",
       "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100731",
       "source": "live_scrape",
-      "scrapedAt": "2026-07-20T01:26:12.545Z",
+      "scrapedAt": "2026-07-27T06:55:53.786Z",
       "variants": [
         {
           "size": "1 L",
@@ -354,7 +354,7 @@
       "casNumber": null,
       "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100997",
       "source": "live_scrape",
-      "scrapedAt": "2026-07-20T01:27:06.862Z",
+      "scrapedAt": "2026-07-27T07:20:24.396Z",
       "variants": [
         {
           "size": "1 L",
@@ -1642,6 +1642,897 @@
           "status": "Indent",
           "location": null,
           "price": 7636000
+        }
+      ]
+    },
+    {
+      "name": "Nitric acid solution",
+      "catalogNo": "1.00630",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100630",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:45:48.904Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00630.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1810000
+        }
+      ]
+    },
+    {
+      "name": "Acetone",
+      "catalogNo": "1.00658",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100658",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:48:45.906Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00658.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 863000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00658.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1804000
+        }
+      ]
+    },
+    {
+      "name": "Acetonitrile",
+      "catalogNo": "1.00665",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100665",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:49:30.542Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.00665.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3104000
+        }
+      ]
+    },
+    {
+      "name": "Dichloromethane",
+      "catalogNo": "1.00668",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100668",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:49:53.323Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.00668.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2134000
+        }
+      ]
+    },
+    {
+      "name": "Thioglycolic acid",
+      "catalogNo": "1.00700",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100700",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:54:05.118Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00700.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 9301000
+        }
+      ]
+    },
+    {
+      "name": "Sulfuric acid",
+      "catalogNo": "1.00714",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100714",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:54:26.756Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00714.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 9073000
+        }
+      ]
+    },
+    {
+      "name": "Sulfuric acid",
+      "catalogNo": "1.00716",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100716",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:54:48.909Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00716.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 757000
+        }
+      ]
+    },
+    {
+      "name": "Sulfuric acid",
+      "catalogNo": "1.00729",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100729",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:55:31.975Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.00729.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4283000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00729.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 16106000
+        }
+      ]
+    },
+    {
+      "name": "Sulfuric acid",
+      "catalogNo": "1.00732",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100732",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:56:17.072Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.00732.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2688000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00732.2510",
+          "status": "Indent",
+          "location": null,
+          "price": 2809000
+        }
+      ]
+    },
+    {
+      "name": "Sulfuric acid",
+      "catalogNo": "1.00748",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100748",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:56:39.287Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.00748.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3072000
+        }
+      ]
+    },
+    {
+      "name": "Sulfurous acid",
+      "catalogNo": "1.00761",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100761",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:57:01.008Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00761.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1668000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00761.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3268000
+        }
+      ]
+    },
+    {
+      "name": "Ethyl acetate",
+      "catalogNo": "1.00789",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100789",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:58:28.826Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00789.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2069000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00789.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4301000
+        }
+      ]
+    },
+    {
+      "name": "Hexane",
+      "catalogNo": "1.00795",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100795",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:58:52.001Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.00795.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6251000
+        }
+      ]
+    },
+    {
+      "name": "Methanol",
+      "catalogNo": "1.00837",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100837",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:04:28.314Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00837.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 768000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00837.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1497000
+        }
+      ]
+    },
+    {
+      "name": "Ethanolamine",
+      "catalogNo": "1.00845",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100845",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:05:13.921Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00845.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2085000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00845.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3324000
+        }
+      ]
+    },
+    {
+      "name": "Toluene",
+      "catalogNo": "1.00849",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100849",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:05:36.018Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00849.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1272000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00849.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2642000
+        }
+      ]
+    },
+    {
+      "name": "Ethyl acetate",
+      "catalogNo": "1.00863",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100863",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:08:31.424Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.00863.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 6644000
+        }
+      ]
+    },
+    {
+      "name": "Diisopropyl ether",
+      "catalogNo": "1.00867",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100867",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:08:54.854Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00867.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1698000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00867.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3538000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.00867.6010",
+          "status": "Indent",
+          "location": null,
+          "price": 11551000
+        }
+      ]
+    },
+    {
+      "name": "Ethyl acetate",
+      "catalogNo": "1.00868",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100868",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:09:19.572Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00868.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2421000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00868.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5226000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.00868.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 8280000
+        }
+      ]
+    },
+    {
+      "name": "n-Pentane",
+      "catalogNo": "1.00882",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100882",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:10:04.135Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00882.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4055000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00882.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 8517000
+        }
+      ]
+    },
+    {
+      "name": "Petroleum benzine boiling range 50-70°C",
+      "catalogNo": "1.00910",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100910",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:11:56.754Z",
+      "variants": [
+        {
+          "size": "25 L",
+          "sku": "1.00910.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 14183000
+        }
+      ]
+    },
+    {
+      "name": "Petroleum benzine",
+      "catalogNo": "1.00915",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100915",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:12:19.000Z",
+      "variants": [
+        {
+          "size": "25 L",
+          "sku": "1.00915.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 16195000
+        }
+      ]
+    },
+    {
+      "name": "Diethyl ether",
+      "catalogNo": "1.00921",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100921",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:12:40.986Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.00921.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1165000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.00921.6010",
+          "status": "Indent",
+          "location": null,
+          "price": 3804000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00921.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 6776000
+        }
+      ]
+    },
+    {
+      "name": "Diethyl ether",
+      "catalogNo": "1.00923",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100923",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:13:02.633Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00923.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 340000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00923.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 4999000
+        }
+      ]
+    },
+    {
+      "name": "Diethyl ether",
+      "catalogNo": "1.00931",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100931",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:13:24.787Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.00931.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 4143000
+        }
+      ]
+    },
+    {
+      "name": "Ethylene glycol",
+      "catalogNo": "1.00949",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100949",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:14:08.643Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00949.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 463000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00949.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 965000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00949.9028",
+          "status": "Indent",
+          "location": null,
+          "price": 5743000
+        }
+      ]
+    },
+    {
+      "name": "Tetrachloroethylene",
+      "catalogNo": "1.00964",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100964",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:15:37.213Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00964.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1880000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00964.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3917000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00964.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 22772000
+        },
+        {
+          "size": "190 L",
+          "sku": "1.00964.9190",
+          "status": "Indent",
+          "location": null,
+          "price": 137152000
+        }
+      ]
+    },
+    {
+      "name": "Tetrachloroethylene",
+      "catalogNo": "1.00965",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100965",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:15:58.745Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.00965.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 8823000
+        }
+      ]
+    },
+    {
+      "name": "Ethanol (denatured)",
+      "catalogNo": "1.00974",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100974",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:16:20.752Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00974.1011",
+          "status": "Indent",
+          "location": null,
+          "price": 451000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00974.2511",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 939000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00974.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 5584000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00974.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 5995000
+        },
+        {
+          "size": "180 L",
+          "sku": "1.00974.9180",
+          "status": "Indent",
+          "location": null,
+          "price": 34203000
+        }
+      ]
+    },
+    {
+      "name": "n-Amyl alcohol",
+      "catalogNo": "1.00975",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100975",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:16:42.572Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00975.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2899000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00975.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6036000
+        }
+      ]
+    },
+    {
+      "name": "Isoamyl alcohol",
+      "catalogNo": "1.00979",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100979",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:17:26.327Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00979.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3050000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00979.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6356000
+        }
+      ]
+    },
+    {
+      "name": "Ethyl alcohol, pure",
+      "catalogNo": "1.00980",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100980",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:17:48.276Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.00980.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6402000
+        }
+      ]
+    },
+    {
+      "name": "Isobutanol",
+      "catalogNo": "1.00985",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100985",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:18:56.192Z",
+      "variants": [
+        {
+          "size": "25 L",
+          "sku": "1.00985.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 18217000
+        },
+        {
+          "size": "190 L",
+          "sku": "1.00985.9190",
+          "status": "Indent",
+          "location": null,
+          "price": 109722000
+        }
+      ]
+    },
+    {
+      "name": "1-Octanol",
+      "catalogNo": "1.00991",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100991",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:19:18.060Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00991.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2886000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00991.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 34628000
+        }
+      ]
+    },
+    {
+      "name": "2-Propanol",
+      "catalogNo": "1.00993",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100993",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:19:40.255Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00993.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2232000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00993.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4891000
+        }
+      ]
+    },
+    {
+      "name": "1-Propanol",
+      "catalogNo": "1.00996",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100996",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:20:02.010Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00996.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1806000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00996.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3764000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.00996.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 21881000
+        },
+        {
+          "size": "190 L",
+          "sku": "1.00996.9190",
+          "status": "Indent",
+          "location": null,
+          "price": 131784000
+        }
+      ]
+    },
+    {
+      "name": "2-Propanol",
+      "catalogNo": "1.00998",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100998",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:20:46.592Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00998.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1441000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.00998.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2992000
+        }
+      ]
+    },
+    {
+      "name": "1-Propanol",
+      "catalogNo": "1.01024",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101024",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:22:16.504Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.01024.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4340000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.01024.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 9032000
         }
       ]
     }
