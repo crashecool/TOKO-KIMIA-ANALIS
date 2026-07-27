@@ -1349,6 +1349,23 @@
           "price": 15888000
         }
       ]
+    },
+    {
+      "name": "N,N-Dimethylacetamide",
+      "catalogNo": "1.00399",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/100399",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T06:13:12.998Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.00399.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5375000
+        }
+      ]
     }
   ]
 }
