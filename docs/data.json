@@ -3135,6 +3135,157 @@
           "price": 154638000
         }
       ]
+    },
+    {
+      "name": "Dimethyl sulfoxide",
+      "catalogNo": "1.01900",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101900",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T03:54:09.995Z",
+      "variants": [
+        {
+          "size": "0.5 L",
+          "sku": "1.01900.0500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2287000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.01900.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3947000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.01900.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 8220000
+        }
+      ]
+    },
+    {
+      "name": "n-Butyl acetate",
+      "catalogNo": "1.01974",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101974",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T03:59:28.043Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.01974.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2381000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.01974.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 13847000
+        },
+        {
+          "size": "190 L",
+          "sku": "1.01974.9190",
+          "status": "Indent",
+          "location": null,
+          "price": 83400000
+        }
+      ]
+    },
+    {
+      "name": "tert-Butyl methyl ether",
+      "catalogNo": "1.01984",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101984",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T03:59:50.920Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.01984.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 4751000
+        }
+      ]
+    },
+    {
+      "name": "1-Butanol",
+      "catalogNo": "1.01990",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101990",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T04:00:35.498Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.01990.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2383000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.01990.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4964000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.01990.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 28864000
+        }
+      ]
+    },
+    {
+      "name": "tert-Butyl methyl ether",
+      "catalogNo": "1.01995",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101995",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T04:00:57.953Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.01995.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2457000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.01995.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 5111000
+        }
+      ]
+    },
+    {
+      "name": "Cesium chloride-aluminium nitrate buffer solution",
+      "catalogNo": "1.02037",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/102037",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T04:05:11.051Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.02037.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3400000
+        }
+      ]
     }
   ]
 }
