@@ -2953,6 +2953,188 @@
           "price": 2541000
         }
       ]
+    },
+    {
+      "name": "Nitric acid",
+      "catalogNo": "1.01799",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101799",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T03:44:48.465Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.01799.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1056000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.01799.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2070000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.01799.2510",
+          "status": "Indent",
+          "location": null,
+          "price": 2163000
+        },
+        {
+          "size": "180 L",
+          "sku": "1.01799.9180",
+          "status": "Indent",
+          "location": null,
+          "price": 45624000
+        }
+      ]
+    },
+    {
+      "name": "Acetic acid (glacial)",
+      "catalogNo": "1.01830",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101830",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T03:48:14.696Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.01830.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 680000
+        }
+      ]
+    },
+    {
+      "name": "Nitric acid",
+      "catalogNo": "1.01832",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101832",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T03:48:37.270Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.01832.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1656000
+        }
+      ]
+    },
+    {
+      "name": "Sulfuric acid",
+      "catalogNo": "1.01833",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101833",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T03:49:00.071Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.01833.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 648000
+        }
+      ]
+    },
+    {
+      "name": "tert-Butyl methyl ether",
+      "catalogNo": "1.01843",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101843",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T03:50:10.099Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.01843.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2431000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.01843.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 14136000
+        },
+        {
+          "size": "190 L",
+          "sku": "1.01843.6190",
+          "status": "Indent",
+          "location": null,
+          "price": 91412000
+        }
+      ]
+    },
+    {
+      "name": "tert-Butyl methyl ether",
+      "catalogNo": "1.01845",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101845",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T03:50:32.713Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.01845.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3740000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.01845.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 8121000
+        }
+      ]
+    },
+    {
+      "name": "tert-Butyl methyl ether",
+      "catalogNo": "1.01849",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101849",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T03:51:18.006Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.01849.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1974000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.01849.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4113000
+        },
+        {
+          "size": "5 L",
+          "sku": "1.01849.5011",
+          "status": "Indent",
+          "location": null,
+          "price": 6738000
+        },
+        {
+          "size": "190 L",
+          "sku": "1.01849.6190",
+          "status": "Indent",
+          "location": null,
+          "price": 154638000
+        }
+      ]
     }
   ]
 }
