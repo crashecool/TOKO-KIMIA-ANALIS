@@ -3897,6 +3897,99 @@
           "price": 27605000
         }
       ]
+    },
+    {
+      "name": "N,N-Dimethylformamide",
+      "catalogNo": "1.03053",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/103053",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:02:23.381Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.03053.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2892000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.03053.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6024000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.03053.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 35024000
+        }
+      ]
+    },
+    {
+      "name": "1,4-Dioxane",
+      "catalogNo": "1.03115",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/103115",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:06:33.765Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.03115.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2865000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.03115.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 5969000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.03115.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 34703000
+        },
+        {
+          "size": "190 L",
+          "sku": "1.03115.9191",
+          "status": "Indent",
+          "location": null,
+          "price": 209010000
+        }
+      ]
+    },
+    {
+      "name": "1,4-Dioxane",
+      "catalogNo": "1.03132",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/103132",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:07:39.677Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.03132.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6892000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.03132.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 14233000
+        }
+      ]
     }
   ]
 }
