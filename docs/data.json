@@ -4440,6 +4440,178 @@
           "price": 10369000
         }
       ]
+    },
+    {
+      "name": "Hexane",
+      "catalogNo": "1.04372",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/104372",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:46:22.747Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.04372.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 9309000
+        }
+      ]
+    },
+    {
+      "name": "Hexane",
+      "catalogNo": "1.04374",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/104374",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:46:45.487Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.04374.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3481000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.04374.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 7255000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.04374.4000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 11608000
+        }
+      ]
+    },
+    {
+      "name": "n-Heptane",
+      "catalogNo": "1.04379",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/104379",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:47:08.516Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.04379.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2631000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.04379.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5481000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.04379.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 8770000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.04379.6010",
+          "status": "Indent",
+          "location": null,
+          "price": 17890000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.04379.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 31868000
+        },
+        {
+          "size": "190 L",
+          "sku": "1.04379.6190",
+          "status": "Indent",
+          "location": null,
+          "price": 206080000
+        }
+      ]
+    },
+    {
+      "name": "n-Heptane",
+      "catalogNo": "1.04390",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/104390",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:47:31.254Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.04390.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 6011000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.04390.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 12007000
+        }
+      ]
+    },
+    {
+      "name": "Hexane",
+      "catalogNo": "1.04391",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/104391",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:47:53.426Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.04391.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3982000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.04391.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 8063000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.04391.4000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 12764000
+        }
+      ]
+    },
+    {
+      "name": "Mercury(II) sulfate solution 200 g/l",
+      "catalogNo": "1.04413",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/104413",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:49:00.008Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.04413.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5912000
+        }
+      ]
     }
   ]
 }
