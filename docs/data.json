@@ -3990,6 +3990,95 @@
           "price": 14233000
         }
       ]
+    },
+    {
+      "name": "Ethyl acetate",
+      "catalogNo": "1.03649",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/103649",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:14:10.613Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.03649.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1045000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.03649.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2183000
+        }
+      ]
+    },
+    {
+      "name": "n-Heptane",
+      "catalogNo": "1.03654",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/103654",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:14:34.020Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.03654.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2847000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.03654.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6278000
+        }
+      ]
+    },
+    {
+      "name": "Hexane",
+      "catalogNo": "1.03701",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/103701",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:14:57.154Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.03701.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2193000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.03701.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4341000
+        }
+      ]
+    },
+    {
+      "name": "Water",
+      "catalogNo": "1.03702",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/103702",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:15:19.468Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.03702.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1861000
+        }
+      ]
     }
   ]
 }
