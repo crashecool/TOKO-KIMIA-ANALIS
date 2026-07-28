@@ -2535,6 +2535,201 @@
           "price": 9032000
         }
       ]
+    },
+    {
+      "name": "2-Propanol",
+      "catalogNo": "1.01040",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101040",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:23:28.201Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.01040.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2126000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.01040.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4426000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.01040.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 6607000
+        }
+      ]
+    },
+    {
+      "name": "Aniline",
+      "catalogNo": "1.01261",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101261",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:40:31.857Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.01261.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 5636000
+        }
+      ]
+    },
+    {
+      "name": "Water",
+      "catalogNo": "1.01262",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101262",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:40:54.530Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.01262.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 7592000
+        }
+      ]
+    },
+    {
+      "name": "Methyl orange solution",
+      "catalogNo": "1.01323",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101323",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:44:18.887Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.01323.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5056000
+        }
+      ]
+    },
+    {
+      "name": "Wright′s eosin methylene blue solution",
+      "catalogNo": "1.01383",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101383",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:47:39.175Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.01383.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3931000
+        },
+        {
+          "size": "180 L",
+          "sku": "1.01383.9180",
+          "status": "Indent",
+          "location": null,
+          "price": 346436000
+        }
+      ]
+    },
+    {
+      "name": "May-Grünwald′s eosine-methylene blue solution modified",
+      "catalogNo": "1.01424",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101424",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:49:29.273Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.01424.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2418000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.01424.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 4022000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.01424.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 41114000
+        }
+      ]
+    },
+    {
+      "name": "Silver sulfate solution 10 g/l",
+      "catalogNo": "1.01517",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101517",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:53:34.579Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.01517.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2743000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.01517.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 6406000
+        }
+      ]
+    },
+    {
+      "name": "Silver sulfate solution 80 g/l",
+      "catalogNo": "1.01574",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101574",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-27T07:59:35.051Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.01574.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 9606000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.01645",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/101645",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T03:25:27.564Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.01645.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2041000
+        }
+      ]
     }
   ]
 }
