@@ -4079,6 +4079,85 @@
           "price": 1861000
         }
       ]
+    },
+    {
+      "name": "M-FIX® spray fixative",
+      "catalogNo": "1.03981",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/103981",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:26:17.386Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.03981.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 4527000
+        }
+      ]
+    },
+    {
+      "name": "Formaldehyde solution min. 37% free from acid",
+      "catalogNo": "1.03999",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/103999",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:27:02.115Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.03999.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1773000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.03999.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2863000
+        }
+      ]
+    },
+    {
+      "name": "Formaldehyde solution about 37%",
+      "catalogNo": "1.04003",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/104003",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:27:24.247Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.04003.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1517000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.04003.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2943000
+        },
+        {
+          "size": "5 L",
+          "sku": "1.04003.5000",
+          "status": "Indent",
+          "location": null,
+          "price": 4345000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.04003.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 24188000
+        }
+      ]
     }
   ]
 }
