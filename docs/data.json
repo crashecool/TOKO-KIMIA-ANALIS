@@ -3591,6 +3591,312 @@
           "price": 1213000
         }
       ]
+    },
+    {
+      "name": "Cyclohexane",
+      "catalogNo": "1.02817",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/102817",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T04:51:46.420Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.02817.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3336000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.02817.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4321000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.02817.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 6821000
+        }
+      ]
+    },
+    {
+      "name": "Cyclohexane",
+      "catalogNo": "1.02822",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/102822",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T04:52:09.473Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.02822.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 9704000
+        }
+      ]
+    },
+    {
+      "name": "Cyclohexane",
+      "catalogNo": "1.02827",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/102827",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T04:52:32.100Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.02827.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4443000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.02827.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 8763000
+        }
+      ]
+    },
+    {
+      "name": "Cyclohexane",
+      "catalogNo": "1.02832",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/102832",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T04:53:16.908Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.02832.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 689000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.02832.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1437000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.02832.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 8354000
+        },
+        {
+          "size": "190 L",
+          "sku": "1.02832.9190",
+          "status": "Indent",
+          "location": null,
+          "price": 50318000
+        }
+      ]
+    },
+    {
+      "name": "Cyclohexanone",
+      "catalogNo": "1.02888",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/102888",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T04:55:07.143Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.02888.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2514000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.02888.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5237000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.02888.6010",
+          "status": "Indent",
+          "location": null,
+          "price": 17096000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.02888.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 30453000
+        },
+        {
+          "size": "190 L",
+          "sku": "1.02888.9191",
+          "status": "Indent",
+          "location": null,
+          "price": 183412000
+        }
+      ]
+    },
+    {
+      "name": "1,2-Dichlorobenzene",
+      "catalogNo": "1.02930",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/102930",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T04:57:23.186Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.02930.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1618000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.02930.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3246000
+        }
+      ]
+    },
+    {
+      "name": "Dimethyl sulfoxide",
+      "catalogNo": "1.02931",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/102931",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T04:57:45.249Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.02931.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3092000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.02931.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6442000
+        }
+      ]
+    },
+    {
+      "name": "N,N-Dimethylformamide",
+      "catalogNo": "1.02937",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/102937",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T04:58:10.570Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.02937.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 10722000
+        }
+      ]
+    },
+    {
+      "name": "Dimethyl sulfoxide",
+      "catalogNo": "1.02950",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/102950",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T04:58:32.701Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.02950.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 11303000
+        }
+      ]
+    },
+    {
+      "name": "Dimethyl sulfoxide",
+      "catalogNo": "1.02952",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/102952",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T04:58:55.465Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.02952.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2988000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.02952.2511",
+          "status": "Indent",
+          "location": null,
+          "price": 5667000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.02952.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6227000
+        },
+        {
+          "size": "5 L",
+          "sku": "1.02952.5011",
+          "status": "Indent",
+          "location": null,
+          "price": 10200000
+        }
+      ]
+    },
+    {
+      "name": "N,N-Dimethylformamide",
+      "catalogNo": "1.03034",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/103034",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:01:31.855Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.03034.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2279000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.03034.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4747000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.03034.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 27605000
+        }
+      ]
     }
   ]
 }
