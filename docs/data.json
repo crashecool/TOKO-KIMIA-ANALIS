@@ -3509,6 +3509,88 @@
           "price": 10645000
         }
       ]
+    },
+    {
+      "name": "Benzyl alcohol",
+      "catalogNo": "1.02695",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/102695",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T04:43:44.422Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.02695.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4457000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.02695.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 9808000
+        }
+      ]
+    },
+    {
+      "name": "Water",
+      "catalogNo": "1.02699",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/102699",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T04:44:06.764Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.02699.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1822000
+        }
+      ]
+    },
+    {
+      "name": "2-Propanol",
+      "catalogNo": "1.02781",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/102781",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T04:49:44.011Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.02781.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1034000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.02781.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2105000
+        }
+      ]
+    },
+    {
+      "name": "Copper sulfate solution",
+      "catalogNo": "1.02784",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/102784",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T04:50:05.651Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.02784.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1213000
+        }
+      ]
     }
   ]
 }
