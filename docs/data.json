@@ -4158,6 +4158,288 @@
           "price": 24188000
         }
       ]
+    },
+    {
+      "name": "Isohexane",
+      "catalogNo": "1.04333",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/104333",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:41:19.601Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.04333.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1917000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.04333.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3984000
+        }
+      ]
+    },
+    {
+      "name": "Isohexane",
+      "catalogNo": "1.04335",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/104335",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:41:42.590Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.04335.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5785000
+        }
+      ]
+    },
+    {
+      "name": "Isohexane",
+      "catalogNo": "1.04340",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/104340",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:42:07.390Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.04340.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4494000
+        }
+      ]
+    },
+    {
+      "name": "n-Heptane",
+      "catalogNo": "1.04360",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/104360",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:43:36.082Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.04360.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2720000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.04360.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5658000
+        }
+      ]
+    },
+    {
+      "name": "n-Heptane",
+      "catalogNo": "1.04365",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/104365",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:43:58.528Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.04365.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1555000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.04365.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3240000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.04365.9011",
+          "status": "Indent",
+          "location": null,
+          "price": 9850000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.04365.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 18838000
+        },
+        {
+          "size": "190 L",
+          "sku": "1.04365.6190",
+          "status": "Indent",
+          "location": null,
+          "price": 121821000
+        }
+      ]
+    },
+    {
+      "name": "n-Heptane",
+      "catalogNo": "1.04366",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/104366",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:44:21.823Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.04366.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 14176000
+        }
+      ]
+    },
+    {
+      "name": "Hexane",
+      "catalogNo": "1.04367",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/104367",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:44:43.473Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.04367.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 926000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.04367.2511",
+          "status": "Indent",
+          "location": null,
+          "price": 1753000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.04367.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1926000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.04367.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 11203000
+        }
+      ]
+    },
+    {
+      "name": "Hexane, mixture of isomers",
+      "catalogNo": "1.04368",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/104368",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:45:05.460Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.04368.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 607000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.04368.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1265000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.04368.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 7358000
+        },
+        {
+          "size": "190 L",
+          "sku": "1.04368.9190",
+          "status": "Indent",
+          "location": null,
+          "price": 44316000
+        },
+        {
+          "size": "190 L",
+          "sku": "1.04368.6190",
+          "status": "Indent",
+          "location": null,
+          "price": 47582000
+        }
+      ]
+    },
+    {
+      "name": "Hexane",
+      "catalogNo": "1.04369",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/104369",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:45:28.416Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.04369.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3328000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.04369.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 6998000
+        }
+      ]
+    },
+    {
+      "name": "Hexane",
+      "catalogNo": "1.04371",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/104371",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-28T05:45:54.698Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.04371.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3033000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.04371.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6458000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.04371.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 10369000
+        }
+      ]
     }
   ]
 }
