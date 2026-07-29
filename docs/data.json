@@ -5955,6 +5955,37 @@
           "price": 15138000
         }
       ]
+    },
+    {
+      "name": "Pyridine",
+      "catalogNo": "1.07462",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/107462",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:00:44.108Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.07462.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4059000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.07462.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 8456000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.07462.6026",
+          "status": "Indent",
+          "location": null,
+          "price": 49167000
+        }
+      ]
     }
   ]
 }
