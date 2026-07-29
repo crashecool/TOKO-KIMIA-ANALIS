@@ -6141,6 +6141,23 @@
           "price": 15319000
         }
       ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.07827",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/107827",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:21:30.300Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.07827.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2697000
+        }
+      ]
     }
   ]
 }
