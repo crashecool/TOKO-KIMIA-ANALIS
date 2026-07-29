@@ -6124,6 +6124,23 @@
           "price": 9074000
         }
       ]
+    },
+    {
+      "name": "Silicone oil",
+      "catalogNo": "1.07742",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/107742",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:15:50.145Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.07742.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 15319000
+        }
+      ]
     }
   ]
 }
