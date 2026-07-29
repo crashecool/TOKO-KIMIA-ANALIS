@@ -6658,6 +6658,832 @@
           "price": 1305000
         }
       ]
+    },
+    {
+      "name": "Schiff′s reagent",
+      "catalogNo": "1.09033",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109033",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:19:04.147Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.09033.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 5127000
+        }
+      ]
+    },
+    {
+      "name": "Hydrochloric acid solution",
+      "catalogNo": "1.09057",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109057",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:19:51.540Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09057.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 633000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09057.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 665000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09057.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1110000
+        },
+        {
+          "size": "5 L",
+          "sku": "1.09057.5000",
+          "status": "Indent",
+          "location": null,
+          "price": 1744000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.09057.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 2472000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09057.9010",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3551000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.09057.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 5199000
+        }
+      ]
+    },
+    {
+      "name": "Hydrochloric acid solution",
+      "catalogNo": "1.09058",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109058",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:20:12.462Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09058.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 616000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09058.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 647000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.09058.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 2403000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.09058.4003",
+          "status": "Indent",
+          "location": null,
+          "price": 2524000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.09058.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 5052000
+        }
+      ]
+    },
+    {
+      "name": "Hydrochloric acid solution",
+      "catalogNo": "1.09060",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109060",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:20:33.352Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09060.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 599000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09060.1003",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 628000
+        },
+        {
+          "size": "5 L",
+          "sku": "1.09060.5000",
+          "status": "Indent",
+          "location": null,
+          "price": 1645000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.09060.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 2333000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.09060.4003",
+          "status": "Indent",
+          "location": null,
+          "price": 2450000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09060.9010",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3350000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09060.9013",
+          "status": "Indent",
+          "location": null,
+          "price": 3517000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.09060.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 4906000
+        }
+      ]
+    },
+    {
+      "name": "Hydrochloric acid solution",
+      "catalogNo": "1.09063",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109063",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:20:54.510Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09063.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 646000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09063.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 679000
+        }
+      ]
+    },
+    {
+      "name": "Perchloric acid solution",
+      "catalogNo": "1.09065",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109065",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:21:17.459Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09065.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1871000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09065.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 1964000
+        }
+      ]
+    },
+    {
+      "name": "Sulfuric acid solution",
+      "catalogNo": "1.09072",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109072",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:21:38.631Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09072.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 693000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09072.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 728000
+        },
+        {
+          "size": "5 L",
+          "sku": "1.09072.5000",
+          "status": "Indent",
+          "location": null,
+          "price": 1907000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09072.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 3883000
+        }
+      ]
+    },
+    {
+      "name": "Sulfuric acid solution",
+      "catalogNo": "1.09073",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109073",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:21:59.908Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09073.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 683000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09073.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 718000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09073.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 3826000
+        }
+      ]
+    },
+    {
+      "name": "Sulfuric acid solution",
+      "catalogNo": "1.09074",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109074",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:22:20.975Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09074.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 653000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09074.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 686000
+        },
+        {
+          "size": "5 L",
+          "sku": "1.09074.5000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1795000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.09074.4000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2547000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09074.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 3656000
+        }
+      ]
+    },
+    {
+      "name": "Ammonium thiocyanate solution",
+      "catalogNo": "1.09079",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109079",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:22:42.286Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09079.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 848000
+        }
+      ]
+    },
+    {
+      "name": "Silver nitrate solution",
+      "catalogNo": "1.09080",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109080",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:23:03.166Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09080.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 8234000
+        }
+      ]
+    },
+    {
+      "name": "Silver nitrate solution",
+      "catalogNo": "1.09081",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109081",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:23:24.305Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09081.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2660000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09081.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 2792000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09081.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5850000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.09081.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 8510000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09081.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 14893000
+        }
+      ]
+    },
+    {
+      "name": "Barium perchlorate solution",
+      "catalogNo": "1.09086",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109086",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:24:50.371Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09086.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2114000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09086.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 2248000
+        }
+      ]
+    },
+    {
+      "name": "Cerium(IV) sulfate solution",
+      "catalogNo": "1.09092",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109092",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:25:34.218Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09092.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 2895000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09092.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3482000
+        }
+      ]
+    },
+    {
+      "name": "Iodine solution",
+      "catalogNo": "1.09098",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109098",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:26:16.334Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09098.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2864000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09098.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 3007000
+        }
+      ]
+    },
+    {
+      "name": "Iodine solution",
+      "catalogNo": "1.09099",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109099",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:26:37.409Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09099.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1475000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09099.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 1549000
+        }
+      ]
+    },
+    {
+      "name": "Potassium hydroxide solution",
+      "catalogNo": "1.09107",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109107",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:26:58.473Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09107.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1077000
+        }
+      ]
+    },
+    {
+      "name": "Potassium hydroxide solution",
+      "catalogNo": "1.09108",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109108",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:27:20.547Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09108.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 899000
+        }
+      ]
+    },
+    {
+      "name": "Potassium hydroxide solution",
+      "catalogNo": "1.09112",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109112",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:27:42.056Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09112.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 848000
+        }
+      ]
+    },
+    {
+      "name": "Potassium hydroxide solution",
+      "catalogNo": "1.09114",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109114",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:28:03.420Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09114.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1621000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09114.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 1700000
+        }
+      ]
+    },
+    {
+      "name": "Potassium hydroxide solution",
+      "catalogNo": "1.09115",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109115",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:28:27.372Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09115.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1573000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09115.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 1651000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09115.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2752000
+        }
+      ]
+    },
+    {
+      "name": "Potassium dichromate solution",
+      "catalogNo": "1.09118",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109118",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:28:48.241Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09118.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1063000
+        }
+      ]
+    },
+    {
+      "name": "Potassium dichromate solution",
+      "catalogNo": "1.09119",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109119",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:29:09.922Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09119.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1318000
+        }
+      ]
+    },
+    {
+      "name": "Potassium permanganate solution",
+      "catalogNo": "1.09121",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109121",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:29:31.367Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09121.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1215000
+        }
+      ]
+    },
+    {
+      "name": "Potassium permanganate solution",
+      "catalogNo": "1.09122",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109122",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:29:52.644Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09122.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1215000
+        }
+      ]
+    },
+    {
+      "name": "Sodium hydroxide solution",
+      "catalogNo": "1.09136",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109136",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:31:17.821Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09136.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 655000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09136.1003",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 688000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.09136.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 5371000
+        }
+      ]
+    },
+    {
+      "name": "Sodium hydroxide solution",
+      "catalogNo": "1.09137",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109137",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:31:39.427Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09137.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 643000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09137.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 674000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09137.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1125000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.09137.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 2508000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.09137.4003",
+          "status": "Indent",
+          "location": null,
+          "price": 2633000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09137.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 3600000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.09137.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 5272000
+        }
+      ]
+    },
+    {
+      "name": "Sodium hydroxide solution",
+      "catalogNo": "1.09138",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109138",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:32:02.666Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09138.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 624000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09138.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 656000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09138.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 3498000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09138.9013",
+          "status": "Indent",
+          "location": null,
+          "price": 3674000
+        }
+      ]
     }
   ]
 }
