@@ -6487,6 +6487,177 @@
           "price": 2722000
         }
       ]
+    },
+    {
+      "name": "Titriplex® III solution",
+      "catalogNo": "1.08431",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108431",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:56:50.738Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.08431.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 782000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.08431.1073",
+          "status": "Indent",
+          "location": null,
+          "price": 821000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.08431.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 821000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.08431.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 4380000
+        }
+      ]
+    },
+    {
+      "name": "Titriplex® IV solution",
+      "catalogNo": "1.08447",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108447",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:58:38.947Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.08447.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1489000
+        }
+      ]
+    },
+    {
+      "name": "Trifluoromethanesulfonic acid solution",
+      "catalogNo": "1.08450",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108450",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:59:00.220Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.08450.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3264000
+        }
+      ]
+    },
+    {
+      "name": "Tetramethylbenzidine solution",
+      "catalogNo": "1.08475",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108475",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:00:27.453Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.08475.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1845000
+        }
+      ]
+    },
+    {
+      "name": "Hydrogen peroxide solution",
+      "catalogNo": "1.08556",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108556",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:04:49.166Z",
+      "variants": [
+        {
+          "size": "25 L",
+          "sku": "1.08556.9025",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 12813000
+        }
+      ]
+    },
+    {
+      "name": "Triton™ X-100",
+      "catalogNo": "1.08603",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108603",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:05:53.578Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.08603.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3553000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.08603.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6004000
+        }
+      ]
+    },
+    {
+      "name": "p-Xylene",
+      "catalogNo": "1.08684",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108684",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:07:19.839Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.08684.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2391000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.08684.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4983000
+        }
+      ]
+    },
+    {
+      "name": "Zinc sulfate solution",
+      "catalogNo": "1.08879",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108879",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:12:48.979Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.08879.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1305000
+        }
+      ]
     }
   ]
 }
