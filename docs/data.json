@@ -6367,6 +6367,54 @@
           "price": 6463000
         }
       ]
+    },
+    {
+      "name": "Toluene",
+      "catalogNo": "1.08327",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108327",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:48:12.164Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.08327.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3433000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.08327.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 7338000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.08327.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 11665000
+        }
+      ]
+    },
+    {
+      "name": "Toluene",
+      "catalogNo": "1.08331",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108331",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:48:35.380Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.08331.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3551000
+        }
+      ]
     }
   ]
 }
