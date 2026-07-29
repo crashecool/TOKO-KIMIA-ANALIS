@@ -8447,6 +8447,161 @@
           "price": 1659000
         }
       ]
+    },
+    {
+      "name": "Ethylene glycol",
+      "catalogNo": "1.09621",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109621",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:22:23.256Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09621.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 784000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09621.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1633000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.09621.9028",
+          "status": "Indent",
+          "location": null,
+          "price": 9716000
+        }
+      ]
+    },
+    {
+      "name": "Ethyl acetate",
+      "catalogNo": "1.09623",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109623",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:22:48.168Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09623.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1442000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09623.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3301000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09623.6010",
+          "status": "Indent",
+          "location": null,
+          "price": 10772000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.09623.9026",
+          "status": "Indent",
+          "location": null,
+          "price": 17871000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.09623.6025",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 19188000
+        },
+        {
+          "size": "180 L",
+          "sku": "1.09623.9181",
+          "status": "Indent",
+          "location": null,
+          "price": 109484000
+        }
+      ]
+    },
+    {
+      "name": "Benzyl alcohol",
+      "catalogNo": "1.09626",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109626",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:23:33.091Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09626.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3655000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09626.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 7615000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.09626.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 44273000
+        }
+      ]
+    },
+    {
+      "name": "tert-Butanol",
+      "catalogNo": "1.09629",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109629",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:24:17.406Z",
+      "variants": [
+        {
+          "size": "25 L",
+          "sku": "1.09629.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 25947000
+        }
+      ]
+    },
+    {
+      "name": "2-Butanol",
+      "catalogNo": "1.09630",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109630",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:24:40.334Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09630.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1977000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09630.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4119000
+        }
+      ]
     }
   ]
 }
