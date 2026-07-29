@@ -6223,6 +6223,109 @@
           "price": 2458000
         }
       ]
+    },
+    {
+      "name": "Tetrahydrofuran",
+      "catalogNo": "1.08110",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108110",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:35:31.173Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.08110.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 19172000
+        }
+      ]
+    },
+    {
+      "name": "Tetrahydrofuran",
+      "catalogNo": "1.08114",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108114",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:35:52.877Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.08114.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1405000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.08114.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2926000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.08114.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 17016000
+        },
+        {
+          "size": "190 L",
+          "sku": "1.08114.9190",
+          "status": "Indent",
+          "location": null,
+          "price": 102484000
+        }
+      ]
+    },
+    {
+      "name": "Tetramethylammonium hydroxide solution",
+      "catalogNo": "1.08124",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108124",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:37:19.364Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.08124.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6681000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.08124.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 7014000
+        }
+      ]
+    },
+    {
+      "name": "Sulfuric acid",
+      "catalogNo": "1.08131",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108131",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:37:40.765Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.08131.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1248000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.08131.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2446000
+        }
+      ]
     }
   ]
 }
