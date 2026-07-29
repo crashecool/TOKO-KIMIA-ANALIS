@@ -7484,6 +7484,463 @@
           "price": 3674000
         }
       ]
+    },
+    {
+      "name": "Sodium hydroxide solution",
+      "catalogNo": "1.09139",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109139",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:32:28.577Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09139.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 615000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09139.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 646000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09139.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 3447000
+        }
+      ]
+    },
+    {
+      "name": "Sodium hydroxide solution",
+      "catalogNo": "1.09140",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109140",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:32:49.778Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09140.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 612000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09140.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 643000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09140.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 3430000
+        }
+      ]
+    },
+    {
+      "name": "Sodium hydroxide solution",
+      "catalogNo": "1.09141",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109141",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:33:11.016Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09141.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 607000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09141.1008",
+          "status": "Indent",
+          "location": null,
+          "price": 607000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09141.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 637000
+        },
+        {
+          "size": "5 L",
+          "sku": "1.09141.5000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1668000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.09141.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 2365000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09141.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 3396000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09141.9013",
+          "status": "Indent",
+          "location": null,
+          "price": 3566000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.09141.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 4973000
+        }
+      ]
+    },
+    {
+      "name": "Mercury(II) nitrate solution",
+      "catalogNo": "1.09143",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109143",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:33:53.890Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09143.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2555000
+        }
+      ]
+    },
+    {
+      "name": "Sodium thiosulfate solution",
+      "catalogNo": "1.09147",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109147",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:34:15.316Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09147.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 646000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09147.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 678000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.09147.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 2518000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09147.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 3616000
+        }
+      ]
+    },
+    {
+      "name": "Tetra-n-butylammonium hydroxide solution",
+      "catalogNo": "1.09162",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109162",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:34:57.355Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09162.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 5009000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09162.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 7340000
+        }
+      ]
+    },
+    {
+      "name": "Wijs solution",
+      "catalogNo": "1.09163",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109163",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:35:18.710Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09163.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1203000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09163.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 1264000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09163.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2645000
+        }
+      ]
+    },
+    {
+      "name": "Hanus solution",
+      "catalogNo": "1.09164",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109164",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:35:41.191Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09164.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3011000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09164.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 3162000
+        }
+      ]
+    },
+    {
+      "name": "pH-indicator solution pH 4.0 - 10.0",
+      "catalogNo": "1.09175",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109175",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:37:05.711Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09175.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 5103000
+        }
+      ]
+    },
+    {
+      "name": "Alkali blue solution",
+      "catalogNo": "1.09198",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109198",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:40:15.274Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09198.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3063000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09198.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 6127000
+        }
+      ]
+    },
+    {
+      "name": "Giemsa′s azur eosin methylene blue solution",
+      "catalogNo": "1.09204",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109204",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:41:22.404Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09204.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2460000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09204.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 4188000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.09204.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 41347000
+        }
+      ]
+    },
+    {
+      "name": "Ziehl-Neelsen carbol-fuchsin solution",
+      "catalogNo": "1.09215",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109215",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:42:52.272Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.09215.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3654000
+        }
+      ]
+    },
+    {
+      "name": "Gram′s safranine solution",
+      "catalogNo": "1.09217",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109217",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:43:13.099Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.09217.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3900000
+        }
+      ]
+    },
+    {
+      "name": "Mayer′s hemalum solution",
+      "catalogNo": "1.09249",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109249",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:46:27.177Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09249.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2365000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09249.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5583000
+        }
+      ]
+    },
+    {
+      "name": "Papanicolaou′s solution 1a Harris′ hematoxylin solution",
+      "catalogNo": "1.09253",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109253",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:46:48.255Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09253.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2718000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09253.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 7374000
+        }
+      ]
+    },
+    {
+      "name": "Aquastar® CombiCoulomat fritless",
+      "catalogNo": "1.09257",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109257",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:47:51.976Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.09257.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 20172000
+        }
+      ]
+    },
+    {
+      "name": "Lugol′s solution (diluted iodine-potassium iodide solution)",
+      "catalogNo": "1.09261",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109261",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:48:34.063Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09261.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1435000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09261.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3031000
+        }
+      ]
     }
   ]
 }
