@@ -8905,6 +8905,57 @@
           "price": 3080000
         }
       ]
+    },
+    {
+      "name": "Hydrochloric acid",
+      "catalogNo": "1.09911",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109911",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:55:09.158Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09911.0001",
+          "status": "Indent",
+          "location": null,
+          "price": 1340000
+        }
+      ]
+    },
+    {
+      "name": "Sulfuric acid solution",
+      "catalogNo": "1.09912",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109912",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:55:36.557Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09912.0001",
+          "status": "Indent",
+          "location": null,
+          "price": 1484000
+        }
+      ]
+    },
+    {
+      "name": "Sodium hydroxide solution",
+      "catalogNo": "1.09913",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109913",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:55:59.663Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09913.0001",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1267000
+        }
+      ]
     }
   ]
 }
