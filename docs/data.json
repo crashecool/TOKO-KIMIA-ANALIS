@@ -6093,6 +6093,37 @@
           "price": 15009000
         }
       ]
+    },
+    {
+      "name": "Extran® AP 22",
+      "catalogNo": "1.07561",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/107561",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:05:36.051Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.07561.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1513000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.07561.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 4537000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.07561.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 9074000
+        }
+      ]
     }
   ]
 }
