@@ -7941,6 +7941,512 @@
           "price": 3031000
         }
       ]
+    },
+    {
+      "name": "Papanicolaou′s solution 3b polychromatic solution EA 50",
+      "catalogNo": "1.09272",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109272",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:50:05.743Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09272.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1996000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09272.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6423000
+        }
+      ]
+    },
+    {
+      "name": "Sulfuric acid",
+      "catalogNo": "1.09286",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109286",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:51:29.191Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.09286.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1613000
+        }
+      ]
+    },
+    {
+      "name": "Copper(II) ethylenediamine solution",
+      "catalogNo": "1.09288",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109288",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:51:50.087Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09288.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 11372000
+        }
+      ]
+    },
+    {
+      "name": "Potassium hydroxide solution",
+      "catalogNo": "1.09351",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109351",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:55:27.354Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09351.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1392000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.09351.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 1463000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.09406",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109406",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:56:10.805Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09406.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1116000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.09406.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 3671000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.09407",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109407",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:56:32.069Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09407.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1116000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.09407.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 3671000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.09408",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109408",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:56:52.944Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09408.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1116000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.09409",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109409",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:57:13.942Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09409.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1116000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.09409.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 3671000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.09432",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109432",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:57:57.383Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09432.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2348000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.09433",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109433",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:58:20.415Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09433.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2253000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09433.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 8949000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.09434",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109434",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:58:42.003Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09434.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2320000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.09435",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109435",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:59:03.499Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09435.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 742000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.09435.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 3671000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09435.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 9132000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.09436",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109436",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:59:24.437Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09436.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2320000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.09437",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109437",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T06:59:48.919Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09437.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2320000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.09438",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109438",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:00:10.237Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09438.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2212000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09438.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 8949000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.09439",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109439",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:00:31.323Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09439.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 720000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.09439.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 2502000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09439.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 6123000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.09445",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109445",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:01:35.092Z",
+      "variants": [
+        {
+          "size": "4 L",
+          "sku": "1.09445.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 3671000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.09460",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109460",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:02:23.745Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09460.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2320000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.09461",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109461",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:02:45.272Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09461.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2237000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09461.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 8949000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.09462",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109462",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:03:08.844Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09462.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2311000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.09475",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109475",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:04:12.927Z",
+      "variants": [
+        {
+          "size": "4 L",
+          "sku": "1.09475.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 3930000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09475.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 9580000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.09476",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109476",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:04:35.041Z",
+      "variants": [
+        {
+          "size": "10 L",
+          "sku": "1.09476.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 9580000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.09477",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109477",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:04:57.012Z",
+      "variants": [
+        {
+          "size": "4 L",
+          "sku": "1.09477.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 3930000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09477.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 9580000
+        }
+      ]
+    },
+    {
+      "name": "Ammonium buffer solution",
+      "catalogNo": "1.09478",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109478",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:05:19.070Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09478.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1659000
+        }
+      ]
     }
   ]
 }
