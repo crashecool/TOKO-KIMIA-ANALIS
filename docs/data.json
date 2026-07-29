@@ -5986,6 +5986,113 @@
           "price": 49167000
         }
       ]
+    },
+    {
+      "name": "Extran® MA 02",
+      "catalogNo": "1.07553",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/107553",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:04:02.764Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.07553.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1417000
+        },
+        {
+          "size": "5 L",
+          "sku": "1.07553.5000",
+          "status": "Indent",
+          "location": null,
+          "price": 2407000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.07553.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 4249000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.07553.9025",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 8497000
+        }
+      ]
+    },
+    {
+      "name": "Extran® MA 01",
+      "catalogNo": "1.07555",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/107555",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:04:23.790Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.07555.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1943000
+        },
+        {
+          "size": "5 L",
+          "sku": "1.07555.5000",
+          "status": "Indent",
+          "location": null,
+          "price": 3305000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.07555.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 5832000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.07555.9025",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 11663000
+        }
+      ]
+    },
+    {
+      "name": "Extran® AP 21",
+      "catalogNo": "1.07559",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/107559",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:05:08.854Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.07559.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2501000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.07559.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 7505000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.07559.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 15009000
+        }
+      ]
     }
   ]
 }
