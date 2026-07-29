@@ -6326,6 +6326,47 @@
           "price": 2446000
         }
       ]
+    },
+    {
+      "name": "Trifluoroacetic acid",
+      "catalogNo": "1.08262",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108262",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:45:17.803Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.08262.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 6953000
+        }
+      ]
+    },
+    {
+      "name": "Xylene (isomeric mixture)",
+      "catalogNo": "1.08297",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108297",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:46:01.726Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.08297.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4039000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.08297.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 6463000
+        }
+      ]
     }
   ]
 }
