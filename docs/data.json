@@ -6175,6 +6175,54 @@
           "price": 20955000
         }
       ]
+    },
+    {
+      "name": "Tetrahydrofuran",
+      "catalogNo": "1.08101",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108101",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:34:42.098Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.08101.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 7368000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.08101.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 10311000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.08101.4000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 11803000
+        }
+      ]
+    },
+    {
+      "name": "Tetrahydrofuran",
+      "catalogNo": "1.08107",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108107",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:35:05.262Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.08107.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2458000
+        }
+      ]
     }
   ]
 }
