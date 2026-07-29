@@ -6158,6 +6158,23 @@
           "price": 2697000
         }
       ]
+    },
+    {
+      "name": "Spectrosolv PSS",
+      "catalogNo": "1.07916",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/107916",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:25:36.999Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.07916.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 20955000
+        }
+      ]
     }
   ]
 }
