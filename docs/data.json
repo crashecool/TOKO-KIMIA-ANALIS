@@ -468,7 +468,7 @@
       "casNumber": null,
       "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109634",
       "source": "live_scrape",
-      "scrapedAt": "2026-07-20T01:28:56.023Z",
+      "scrapedAt": "2026-07-29T07:25:53.474Z",
       "variants": [
         {
           "size": "1 L",
@@ -8600,6 +8600,309 @@
           "status": "Ready",
           "location": "Jakarta Timur,ID",
           "price": 4119000
+        }
+      ]
+    },
+    {
+      "name": "n-Butyl acetate",
+      "catalogNo": "1.09652",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109652",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:27:44.043Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09652.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1934000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09652.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4029000
+        }
+      ]
+    },
+    {
+      "name": "Cyclohexane",
+      "catalogNo": "1.09666",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109666",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:28:27.853Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09666.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1166000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09666.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2431000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09666.6010",
+          "status": "Indent",
+          "location": null,
+          "price": 7934000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.09666.6025",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 14133000
+        },
+        {
+          "size": "190 L",
+          "sku": "1.09666.6191",
+          "status": "Indent",
+          "location": null,
+          "price": 91394000
+        }
+      ]
+    },
+    {
+      "name": "1,4-Dioxane",
+      "catalogNo": "1.09671",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109671",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:28:50.239Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09671.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4847000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09671.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 10097000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.09671.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 58706000
+        }
+      ]
+    },
+    {
+      "name": "Formamide",
+      "catalogNo": "1.09684",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109684",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:29:38.937Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09684.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1957000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09684.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4077000
+        }
+      ]
+    },
+    {
+      "name": "Ethyl methyl ketone",
+      "catalogNo": "1.09708",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109708",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:31:29.425Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09708.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2005000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09708.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 4176000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.09708.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 24279000
+        }
+      ]
+    },
+    {
+      "name": "Petroleum",
+      "catalogNo": "1.09718",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109718",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:33:44.517Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09718.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2330000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09718.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4857000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.09718.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 28235000
+        }
+      ]
+    },
+    {
+      "name": "Pyridine",
+      "catalogNo": "1.09728",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109728",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:35:12.943Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09728.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6866000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09728.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 14305000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.09728.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 83174000
+        }
+      ]
+    },
+    {
+      "name": "Tetrahydrofuran",
+      "catalogNo": "1.09731",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109731",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:35:35.355Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.09731.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2376000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.09731.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4951000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.09731.4000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 7921000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.09731.6010",
+          "status": "Indent",
+          "location": null,
+          "price": 16160000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.09731.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 28784000
+        },
+        {
+          "size": "190 L",
+          "sku": "1.09731.9190",
+          "status": "Indent",
+          "location": null,
+          "price": 173368000
+        }
+      ]
+    },
+    {
+      "name": "Kerosene",
+      "catalogNo": "1.09774",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109774",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:38:58.697Z",
+      "variants": [
+        {
+          "size": "4 L",
+          "sku": "1.09774.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 4593000
+        }
+      ]
+    },
+    {
+      "name": "Neo-Clear™ Xylene Substitute",
+      "catalogNo": "1.09843",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/109843",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T07:42:05.388Z",
+      "variants": [
+        {
+          "size": "5 L",
+          "sku": "1.09843.5000",
+          "status": "Indent",
+          "location": null,
+          "price": 3080000
         }
       ]
     }
