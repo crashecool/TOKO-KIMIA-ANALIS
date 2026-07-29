@@ -6446,6 +6446,47 @@
           "price": 11296000
         }
       ]
+    },
+    {
+      "name": "Titriplex® solution A",
+      "catalogNo": "1.08419",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108419",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:54:29.929Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.08419.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1584000
+        }
+      ]
+    },
+    {
+      "name": "Titriplex® solution B",
+      "catalogNo": "1.08420",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/108420",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T05:54:52.161Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.08420.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 990000
+        },
+        {
+          "size": "5 L",
+          "sku": "1.08420.5000",
+          "status": "Indent",
+          "location": null,
+          "price": 2722000
+        }
+      ]
     }
   ]
 }
