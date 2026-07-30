@@ -9411,6 +9411,54 @@
           "price": 13591000
         }
       ]
+    },
+    {
+      "name": "Heating bath fluid",
+      "catalogNo": "1.15265",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/115265",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T06:11:02.796Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.15265.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 6741000
+        }
+      ]
+    },
+    {
+      "name": "Water",
+      "catalogNo": "1.15333",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/115333",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T06:12:11.598Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.15333.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 790000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.15333.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1428000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.15333.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 2352000
+        }
+      ]
     }
   ]
 }
