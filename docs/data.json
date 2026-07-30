@@ -9175,6 +9175,44 @@
           "price": 2879000
         }
       ]
+    },
+    {
+      "name": "Sulfuric acid",
+      "catalogNo": "1.12080",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/112080",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T04:23:57.308Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.12080.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 522000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.12080.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 906000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.12080.2510",
+          "status": "Indent",
+          "location": null,
+          "price": 1197000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.12080.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 7346000
+        }
+      ]
     }
   ]
 }
