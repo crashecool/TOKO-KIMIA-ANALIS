@@ -9545,6 +9545,23 @@
           "price": 87464000
         }
       ]
+    },
+    {
+      "name": "Diethanolamine",
+      "catalogNo": "1.16205",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/116205",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T06:41:09.907Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.16205.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3239000
+        }
+      ]
     }
   ]
 }
