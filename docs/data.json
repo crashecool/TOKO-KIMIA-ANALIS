@@ -9237,6 +9237,57 @@
           "price": 6981000
         }
       ]
+    },
+    {
+      "name": "Hydrogen chloride solution",
+      "catalogNo": "1.13134",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/113134",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T04:48:07.053Z",
+      "variants": [
+        {
+          "size": "10 L",
+          "sku": "1.13134.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 3685000
+        }
+      ]
+    },
+    {
+      "name": "Hydrochloric acid solution",
+      "catalogNo": "1.13136",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/113136",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T04:48:28.400Z",
+      "variants": [
+        {
+          "size": "10 L",
+          "sku": "1.13136.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 3416000
+        }
+      ]
+    },
+    {
+      "name": "Acetonitrile",
+      "catalogNo": "1.13212",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/113212",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T04:50:16.973Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.13212.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3491000
+        }
+      ]
     }
   ]
 }
