@@ -9682,6 +9682,23 @@
           "price": 3426000
         }
       ]
+    },
+    {
+      "name": "Sulfuric acid",
+      "catalogNo": "1.17048",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/117048",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T07:03:16.478Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.17048.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2294000
+        }
+      ]
     }
   ]
 }
