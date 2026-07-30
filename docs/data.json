@@ -8956,6 +8956,78 @@
           "price": 1267000
         }
       ]
+    },
+    {
+      "name": "Formic acid",
+      "catalogNo": "1.10854",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/110854",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-29T08:51:00.157Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.10854.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2839000
+        }
+      ]
+    },
+    {
+      "name": "Ethyl acetate",
+      "catalogNo": "1.10972",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/110972",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T03:27:15.006Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.10972.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1965000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.10972.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 4210000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.10972.4000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6562000
+        }
+      ]
+    },
+    {
+      "name": "N,N-Dimethylformamide",
+      "catalogNo": "1.10983",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/110983",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T03:28:00.030Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.10983.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4300000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.10983.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 9352000
+        }
+      ]
     }
   ]
 }
