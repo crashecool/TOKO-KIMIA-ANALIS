@@ -9052,6 +9052,64 @@
           "price": 17251000
         }
       ]
+    },
+    {
+      "name": "Sodium hydroxide solution",
+      "catalogNo": "1.11584",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/111584",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T04:06:36.415Z",
+      "variants": [
+        {
+          "size": "5 L",
+          "sku": "1.11584.5000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1851000
+        }
+      ]
+    },
+    {
+      "name": "Potassium hydroxide solution",
+      "catalogNo": "1.11586",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/111586",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T04:06:58.811Z",
+      "variants": [
+        {
+          "size": "5 L",
+          "sku": "1.11586.5000",
+          "status": "Indent",
+          "location": null,
+          "price": 2400000
+        }
+      ]
+    },
+    {
+      "name": "Potassium hydroxide solution",
+      "catalogNo": "1.11587",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/111587",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T04:07:20.668Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.11587.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1351000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.11587.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 1420000
+        }
+      ]
     }
   ]
 }
