@@ -9346,6 +9346,23 @@
           "price": 4579000
         }
       ]
+    },
+    {
+      "name": "Hydrochloric acid",
+      "catalogNo": "1.13386",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/113386",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T04:55:36.787Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.13386.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2340000
+        }
+      ]
     }
   ]
 }
