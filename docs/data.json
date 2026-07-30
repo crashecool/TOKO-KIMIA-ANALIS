@@ -9288,6 +9288,64 @@
           "price": 3491000
         }
       ]
+    },
+    {
+      "name": "2-Propanol",
+      "catalogNo": "1.13350",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/113350",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T04:53:21.971Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.13350.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 887000
+        }
+      ]
+    },
+    {
+      "name": "Methanol",
+      "catalogNo": "1.13351",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/113351",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T04:53:43.863Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.13351.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 713000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.13351.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 1142000
+        }
+      ]
+    },
+    {
+      "name": "Acetonitrile",
+      "catalogNo": "1.13358",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/113358",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T04:54:26.475Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.13358.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4579000
+        }
+      ]
     }
   ]
 }
