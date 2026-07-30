@@ -9459,6 +9459,92 @@
           "price": 2352000
         }
       ]
+    },
+    {
+      "name": "Isooctane",
+      "catalogNo": "1.15440",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/115440",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T06:16:41.020Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.15440.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3275000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.15440.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6036000
+        }
+      ]
+    },
+    {
+      "name": "Hyamine® 1622-solution",
+      "catalogNo": "1.15480",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/115480",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T06:17:45.406Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.15480.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1092000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.15480.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 1147000
+        }
+      ]
+    },
+    {
+      "name": "Acetonitrile",
+      "catalogNo": "1.15500",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/115500",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T06:18:27.658Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.15500.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1199000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.15500.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2497000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.15500.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 14522000
+        },
+        {
+          "size": "190 L",
+          "sku": "1.15500.9190",
+          "status": "Indent",
+          "location": null,
+          "price": 87464000
+        }
+      ]
     }
   ]
 }
