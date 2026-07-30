@@ -9363,6 +9363,23 @@
           "price": 2340000
         }
       ]
+    },
+    {
+      "name": "Standard oil",
+      "catalogNo": "1.13898",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/113898",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T05:02:13.219Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.13898.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 7430000
+        }
+      ]
     }
   ]
 }
