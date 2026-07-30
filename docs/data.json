@@ -9158,6 +9158,23 @@
           "price": 8045000
         }
       ]
+    },
+    {
+      "name": "Potassium hydroxide solution",
+      "catalogNo": "1.11787",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/111787",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T04:15:34.363Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.11787.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2879000
+        }
+      ]
     }
   ]
 }
