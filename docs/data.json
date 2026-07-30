@@ -9380,6 +9380,37 @@
           "price": 7430000
         }
       ]
+    },
+    {
+      "name": "Acetonitrile",
+      "catalogNo": "1.14291",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/114291",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T05:06:16.750Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.14291.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2748000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.14291.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5257000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.14291.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 13591000
+        }
+      ]
     }
   ]
 }
