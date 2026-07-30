@@ -9110,6 +9110,54 @@
           "price": 1420000
         }
       ]
+    },
+    {
+      "name": "Silver nitrate solution",
+      "catalogNo": "1.11718",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/111718",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T04:11:54.326Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.11718.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1861000
+        }
+      ]
+    },
+    {
+      "name": "Ethyl alcohol, pure",
+      "catalogNo": "1.11727",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/111727",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T04:12:57.959Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.11727.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2456000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.11727.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5315000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.11727.4000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 8045000
+        }
+      ]
     }
   ]
 }
