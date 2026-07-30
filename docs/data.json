@@ -9028,6 +9028,30 @@
           "price": 9352000
         }
       ]
+    },
+    {
+      "name": "Sodium hydroxide solution",
+      "catalogNo": "1.11360",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/111360",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T04:03:15.123Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.11360.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3746000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.11360.9025",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 17251000
+        }
+      ]
     }
   ]
 }
