@@ -9562,6 +9562,126 @@
           "price": 3239000
         }
       ]
+    },
+    {
+      "name": "1-Methoxy-2-propanol",
+      "catalogNo": "1.16738",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/116738",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T06:48:17.956Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.16738.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1433000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.16738.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 17129000
+        },
+        {
+          "size": "190 L",
+          "sku": "1.16738.9190",
+          "status": "Indent",
+          "location": null,
+          "price": 103139000
+        }
+      ]
+    },
+    {
+      "name": "Petroleum benzine boiling range 40−60 GRAD C hypergrade for organic trace analysis",
+      "catalogNo": "1.16740",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/116740",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T06:48:38.702Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.16740.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1813000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.16740.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3460000
+        }
+      ]
+    },
+    {
+      "name": "Dimethyl sulfoxide",
+      "catalogNo": "1.16743",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/116743",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T06:49:00.057Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.16743.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1767000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.16743.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 21401000
+        }
+      ]
+    },
+    {
+      "name": "Water",
+      "catalogNo": "1.16754",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/116754",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T06:49:42.202Z",
+      "variants": [
+        {
+          "size": "5 L",
+          "sku": "1.16754.5000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1510000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.16754.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 3197000
+        }
+      ]
+    },
+    {
+      "name": "Cesium chloride-lanthanum chloride buffersolution",
+      "catalogNo": "1.16755",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/116755",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T06:50:03.155Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.16755.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3426000
+        }
+      ]
     }
   ]
 }
