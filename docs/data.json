@@ -9699,6 +9699,82 @@
           "price": 2294000
         }
       ]
+    },
+    {
+      "name": "Extran® MA 05",
+      "catalogNo": "1.40000",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/140000",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T08:49:46.337Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.40000.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1640000
+        },
+        {
+          "size": "5 L",
+          "sku": "1.40000.5000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2787000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.40000.9010",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4919000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.40000.9025",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 9839000
+        }
+      ]
+    },
+    {
+      "name": "Extran® AP 17",
+      "catalogNo": "1.40006",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/140006",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-30T08:50:08.877Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.40006.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1522000
+        },
+        {
+          "size": "5 L",
+          "sku": "1.40006.5000",
+          "status": "Indent",
+          "location": null,
+          "price": 2587000
+        },
+        {
+          "size": "10 L",
+          "sku": "1.40006.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 4565000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.40006.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 9131000
+        }
+      ]
     }
   ]
 }
