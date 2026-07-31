@@ -9891,6 +9891,190 @@
           "price": 4805000
         }
       ]
+    },
+    {
+      "name": "Hydrochloric acid solution",
+      "catalogNo": "1.60238",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/160238",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T06:08:51.193Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.60238.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 563000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.60238.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 590000
+        }
+      ]
+    },
+    {
+      "name": "Acetic acid solution",
+      "catalogNo": "1.60250",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/160250",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T06:09:13.878Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.60250.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 649000
+        }
+      ]
+    },
+    {
+      "name": "Acetic acid solution",
+      "catalogNo": "1.60305",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/160305",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T06:09:36.552Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.60305.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 688000
+        }
+      ]
+    },
+    {
+      "name": "Sodium hydroxide solution",
+      "catalogNo": "1.60309",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/160309",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T06:10:47.650Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.60309.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 599000
+        },
+        {
+          "size": "4 L",
+          "sku": "1.60309.4003",
+          "status": "Indent",
+          "location": null,
+          "price": 2334000
+        }
+      ]
+    },
+    {
+      "name": "Sodium carbonate solution",
+      "catalogNo": "1.60310",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/160310",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T06:11:10.368Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.60310.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 754000
+        }
+      ]
+    },
+    {
+      "name": "Sodium thiosulfate solution",
+      "catalogNo": "1.60311",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/160311",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T06:11:32.839Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.60311.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 657000
+        }
+      ]
+    },
+    {
+      "name": "Sulfuric acid solution",
+      "catalogNo": "1.60313",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/160313",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T06:12:19.628Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.60313.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 749000
+        }
+      ]
+    },
+    {
+      "name": "Sulfuric acid solution",
+      "catalogNo": "1.60314",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/160314",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T06:12:41.924Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.60314.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 619000
+        }
+      ]
+    },
+    {
+      "name": "Sulfuric acid solution",
+      "catalogNo": "1.60315",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/160315",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T06:13:04.574Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.60315.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 808000
+        }
+      ]
+    },
+    {
+      "name": "Sodium thiosulfate solution",
+      "catalogNo": "1.60318",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/160318",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T06:14:15.993Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.60318.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 638000
+        }
+      ]
     }
   ]
 }
