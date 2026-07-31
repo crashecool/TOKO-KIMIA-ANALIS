@@ -10896,6 +10896,125 @@
           "price": 2774000
         }
       ]
+    },
+    {
+      "name": "Diethyl succinate",
+      "catalogNo": "8.00680",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800680",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:04:49.560Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00680.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2076000
+        }
+      ]
+    },
+    {
+      "name": "2-Ethylhexanoic acid",
+      "catalogNo": "8.00758",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800758",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:07:49.501Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00758.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1043000
+        }
+      ]
+    },
+    {
+      "name": "Pentanoic acid",
+      "catalogNo": "8.00821",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800821",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:11:11.003Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00821.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1571000
+        }
+      ]
+    },
+    {
+      "name": "Butyl acrylate",
+      "catalogNo": "8.00832",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800832",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:12:16.742Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "8.00832.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2424000
+        }
+      ]
+    },
+    {
+      "name": "Acrylonitrile",
+      "catalogNo": "8.00834",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800834",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:12:38.608Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00834.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1599000
+        }
+      ]
+    },
+    {
+      "name": "Ethyl acrylate",
+      "catalogNo": "8.00836",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800836",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:13:22.362Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00836.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1374000
+        }
+      ]
+    },
+    {
+      "name": "Methyl acrylate",
+      "catalogNo": "8.00841",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800841",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:13:50.563Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00841.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1105000
+        }
+      ]
     }
   ]
 }
