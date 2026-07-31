@@ -11419,6 +11419,232 @@
           "price": 783000
         }
       ]
+    },
+    {
+      "name": "2-Amino-2-methyl-1-propanol",
+      "catalogNo": "8.01465",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801465",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:33:53.209Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01465.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2104000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.01465.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 4952000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.01465.9026",
+          "status": "Indent",
+          "location": null,
+          "price": 37645000
+        }
+      ]
+    },
+    {
+      "name": "1,4-Butanediol",
+      "catalogNo": "8.01532",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801532",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:35:43.011Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01532.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1709000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.01532.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3258000
+        }
+      ]
+    },
+    {
+      "name": "Butylamine",
+      "catalogNo": "8.01539",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801539",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:36:27.333Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01539.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1313000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.01539.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2362000
+        }
+      ]
+    },
+    {
+      "name": "tert-Butylamine",
+      "catalogNo": "8.01546",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801546",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:36:55.447Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01546.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1227000
+        }
+      ]
+    },
+    {
+      "name": "2-Chloro-2-methylpropane",
+      "catalogNo": "8.01550",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801550",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:37:40.339Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01550.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2027000
+        }
+      ]
+    },
+    {
+      "name": "Ethylene glycol monobutyl ether",
+      "catalogNo": "8.01554",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801554",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:38:49.114Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01554.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 937000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.01554.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1769000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.01554.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 10229000
+        }
+      ]
+    },
+    {
+      "name": "Butyraldehyde",
+      "catalogNo": "8.01555",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801555",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:39:11.390Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01555.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1661000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.01555.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2186000
+        }
+      ]
+    },
+    {
+      "name": "Isobutyraldehyde",
+      "catalogNo": "8.01556",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801556",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:39:34.007Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01556.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1413000
+        }
+      ]
+    },
+    {
+      "name": "Ethyl bromoacetate",
+      "catalogNo": "8.01636",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801636",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:41:37.336Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01636.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 5620000
+        }
+      ]
+    },
+    {
+      "name": "1-Chlorobutane",
+      "catalogNo": "8.01640",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801640",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:41:59.764Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01640.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1396000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.01640.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2933000
+        }
+      ]
     }
   ]
 }
