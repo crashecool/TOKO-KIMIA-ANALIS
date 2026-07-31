@@ -11279,6 +11279,146 @@
           "price": 1937000
         }
       ]
+    },
+    {
+      "name": "Ammonium sulfite",
+      "catalogNo": "8.01221",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801221",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:24:52.959Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01221.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 695000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.01221.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1470000
+        }
+      ]
+    },
+    {
+      "name": "Pivalic acid",
+      "catalogNo": "8.01336",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801336",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:29:15.901Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01336.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1435000
+        }
+      ]
+    },
+    {
+      "name": "Ethylbenzene",
+      "catalogNo": "8.01372",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801372",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:30:00.890Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01372.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1745000
+        }
+      ]
+    },
+    {
+      "name": "Ethyl vinyl ether",
+      "catalogNo": "8.01391",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801391",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:30:23.091Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01391.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1734000
+        }
+      ]
+    },
+    {
+      "name": "2-Butoxyethyl acetate",
+      "catalogNo": "8.01395",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801395",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:31:06.637Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01395.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1081000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.01395.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2163000
+        }
+      ]
+    },
+    {
+      "name": "Anisole",
+      "catalogNo": "8.01452",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801452",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:32:12.518Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01452.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2158000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.01452.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 4349000
+        }
+      ]
+    },
+    {
+      "name": "Bis(2-ethylhexyl) adipate",
+      "catalogNo": "8.01453",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801453",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:32:35.447Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01453.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 783000
+        }
+      ]
     }
   ]
 }
