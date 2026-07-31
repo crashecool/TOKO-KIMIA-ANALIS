@@ -10804,6 +10804,98 @@
           "price": 1959000
         }
       ]
+    },
+    {
+      "name": "Triphenyl phosphite",
+      "catalogNo": "8.00551",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800551",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:55:58.480Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00551.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2432000
+        }
+      ]
+    },
+    {
+      "name": "Methyl methacrylate",
+      "catalogNo": "8.00590",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800590",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:57:50.155Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00590.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1340000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.00590.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2300000
+        }
+      ]
+    },
+    {
+      "name": "Propionic anhydride",
+      "catalogNo": "8.00608",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800608",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:59:25.608Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00608.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2554000
+        }
+      ]
+    },
+    {
+      "name": "2-Hydroxybenzaldehyde",
+      "catalogNo": "8.00640",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800640",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:00:33.365Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00640.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2603000
+        }
+      ]
+    },
+    {
+      "name": "Tetraethyl orthosilicate",
+      "catalogNo": "8.00658",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800658",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:02:30.134Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00658.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2774000
+        }
+      ]
     }
   ]
 }
