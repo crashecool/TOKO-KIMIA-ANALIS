@@ -11015,6 +11015,270 @@
           "price": 1105000
         }
       ]
+    },
+    {
+      "name": "Ethanolamine",
+      "catalogNo": "8.00849",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800849",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:14:16.683Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00849.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1009000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.00849.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2277000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.00849.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 11306000
+        }
+      ]
+    },
+    {
+      "name": "Ethylene glycol dimethyl ether",
+      "catalogNo": "8.00856",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800856",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:14:38.626Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00856.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3247000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.00856.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3598000
+        }
+      ]
+    },
+    {
+      "name": "2-Ethoxyethanol (stabilised)",
+      "catalogNo": "8.00857",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800857",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:15:00.847Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00857.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 919000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.00857.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1514000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.00857.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 10114000
+        }
+      ]
+    },
+    {
+      "name": "Diisopropyl ether",
+      "catalogNo": "8.00866",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800866",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:15:23.186Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "8.00866.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2019000
+        }
+      ]
+    },
+    {
+      "name": "Trimethyl orthoformate",
+      "catalogNo": "8.00885",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800885",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:16:51.449Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00885.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1663000
+        }
+      ]
+    },
+    {
+      "name": "Methyl formate",
+      "catalogNo": "8.00889",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800889",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:17:39.348Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00889.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1049000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.00889.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1675000
+        }
+      ]
+    },
+    {
+      "name": "Diethyl malonate",
+      "catalogNo": "8.00898",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800898",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:18:44.810Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00898.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1592000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.00898.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3449000
+        }
+      ]
+    },
+    {
+      "name": "Dimethyl malonate",
+      "catalogNo": "8.00899",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800899",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:19:06.445Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00899.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1039000
+        }
+      ]
+    },
+    {
+      "name": "Dimethyl phthalate",
+      "catalogNo": "8.00918",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800918",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:20:12.829Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00918.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1748000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.00918.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2084000
+        }
+      ]
+    },
+    {
+      "name": "Ethylenediamine",
+      "catalogNo": "8.00947",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800947",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:20:56.933Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00947.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1494000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.00947.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3015000
+        },
+        {
+          "size": "50 L",
+          "sku": "8.00947.9051",
+          "status": "Indent",
+          "location": null,
+          "price": 39565000
+        }
+      ]
+    },
+    {
+      "name": "2-Ethyl-1-hexanol",
+      "catalogNo": "8.00990",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800990",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:21:47.891Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00990.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 610000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.00990.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1937000
+        }
+      ]
     }
   ]
 }
