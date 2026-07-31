@@ -9,12 +9,14 @@
     "update-sheet": "node update-sheet.js",
     "test-parser": "node parse.js",
     "merge-to-site": "node merge-to-site.js",
-    "generate-urls": "node generate-urls.js"
+    "generate-urls": "node generate-urls.js",
+"gui": "node gui-scraper/server.js"
   },
   "dependencies": {
     "playwright": "^1.45.0",
     "googleapis": "^140.0.0",
-    "pdf-parse": "^1.1.1"
+    "pdf-parse": "^1.1.1",
+"express": "^4.19.2"
   },
   "devDependencies": {
     "cross-env": "^7.0.3"

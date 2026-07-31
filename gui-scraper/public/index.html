@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Kimia Analis Toped — GUI Scraper</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="app-header">
+    <div class="brand">
+      <span class="brand-mark">⬡</span>
+      <div>
+        <div class="brand-name">GUI SCRAPER</div>
+        <div class="brand-sub">Firefox headless · Katalog Kimia Analis Toped</div>
+      </div>
+    </div>
+    <span class="status-badge" id="statusBadge">Idle</span>
+  </header>
+
+  <main class="layout">
+    <section class="progress-card">
+      <div class="progress-numbers">
+        <div class="stat">
+          <span class="stat-value" id="totalDone">0</span>
+          <span class="stat-label">Selesai</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="totalRemaining">0</span>
+          <span class="stat-label">Sisa</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="totalAll">0</span>
+          <span class="stat-label">Total Katalog</span>
+        </div>
+      </div>
+      <div class="progress-bar-track">
+        <div class="progress-bar-fill" id="progressFill" style="width: 0%"></div>
+      </div>
+      <div class="progress-detail" id="progressDetail">0 / 0 produk</div>
+
+      <div class="breakdown">
+        <span class="pill ready">✓ <span id="successCount">0</span> berhasil</span>
+        <span class="pill unknown">⏭ <span id="notFoundCount">0</span> 404 (skip)</span>
+        <span class="pill indent">✗ <span id="errorCount">0</span> error lain</span>
+      </div>
+
+      <div class="current-url" id="currentUrl">—</div>
+    </section>
+
+    <section class="controls-card">
+      <div class="control-row">
+        <label>Ukuran batch (checkpoint & commit)</label>
+        <input type="number" id="batchSizeInput" value="500" min="10" max="2000" />
+      </div>
+      <div class="control-row checkbox-row">
+        <label>
+          <input type="checkbox" id="autoCommitInput" checked />
+          Auto commit &amp; push ke GitHub tiap batch selesai
+        </label>
+      </div>
+      <div class="button-row">
+        <button class="btn-start" id="btnStart">▶ Mulai / Lanjutkan</button>
+        <button class="btn-pause" id="btnPause" disabled>⏸ Jeda</button>
+        <button class="btn-stop" id="btnStop" disabled>⏹ Berhenti</button>
+      </div>
+      <p class="note">
+        Progress otomatis tersimpan (attempted-codes.json) — aman ditutup &amp; dibuka lagi,
+        akan lanjut dari yang belum selesai. Produk dengan HTTP 404 langsung dilewati
+        tanpa diulang di sesi berikutnya.
+      </p>
+    </section>
+
+    <section class="log-card">
+      <div class="log-header">Log Aktivitas</div>
+      <div class="log-body" id="logBody"></div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
