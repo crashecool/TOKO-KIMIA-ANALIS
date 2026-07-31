@@ -10538,6 +10538,129 @@
           "price": 44987000
         }
       ]
+    },
+    {
+      "name": "N,N-Dimethylformamide",
+      "catalogNo": "5.43897",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/543897",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:30:36.211Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "5.43897.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2898000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "5.43897.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 5491000
+        }
+      ]
+    },
+    {
+      "name": "NMP",
+      "catalogNo": "5.43899",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/543899",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:30:58.950Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "5.43899.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2905000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "5.43899.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 6498000
+        }
+      ]
+    },
+    {
+      "name": "Dimethyl sulfoxide",
+      "catalogNo": "5.43900",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/543900",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:31:20.706Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "5.43900.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2578000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "5.43900.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5704000
+        }
+      ]
+    },
+    {
+      "name": "Acetylacetone",
+      "catalogNo": "8.00023",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800023",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:32:12.707Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00023.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3215000
+        }
+      ]
+    },
+    {
+      "name": "Acetophenone",
+      "catalogNo": "8.00028",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800028",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:32:36.310Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00028.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1395000
+        }
+      ]
+    },
+    {
+      "name": "Dimethyl adipate",
+      "catalogNo": "8.00097",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800097",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:34:07.838Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00097.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1841000
+        }
+      ]
     }
   ]
 }
