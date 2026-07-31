@@ -9775,6 +9775,122 @@
           "price": 9131000
         }
       ]
+    },
+    {
+      "name": "Sodium hydroxide solution",
+      "catalogNo": "1.58793",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/158793",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T06:02:56.520Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.58793.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2159000
+        },
+        {
+          "size": "25 L",
+          "sku": "1.58793.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 18894000
+        },
+        {
+          "size": "200 L",
+          "sku": "1.58793.9200",
+          "status": "Indent",
+          "location": null,
+          "price": 60463000
+        }
+      ]
+    },
+    {
+      "name": "Acetonitrile solution",
+      "catalogNo": "1.59002",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/159002",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T06:03:24.971Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.59002.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 4648000
+        }
+      ]
+    },
+    {
+      "name": "Acetonitrile solution",
+      "catalogNo": "1.59004",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/159004",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T06:03:50.357Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.59004.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 4718000
+        }
+      ]
+    },
+    {
+      "name": "Acetic Acid Solution",
+      "catalogNo": "1.59007",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/159007",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T06:04:17.611Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.59007.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1267000
+        }
+      ]
+    },
+    {
+      "name": "Ethyl alcohol, pure",
+      "catalogNo": "1.59010",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/159010",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T06:04:42.134Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.59010.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1088000
+        }
+      ]
+    },
+    {
+      "name": "Acetonitrile solution",
+      "catalogNo": "1.59014",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/159014",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T06:05:31.349Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "1.59014.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 4805000
+        }
+      ]
     }
   ]
 }
