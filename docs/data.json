@@ -10075,6 +10075,294 @@
           "price": 638000
         }
       ]
+    },
+    {
+      "name": "Aquastar® CombiTitrant 2",
+      "catalogNo": "1.88002",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/188002",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T06:59:57.482Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.88002.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2947000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.88002.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 3095000
+        }
+      ]
+    },
+    {
+      "name": "Aquastar® CombiTitrant 5",
+      "catalogNo": "1.88005",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/188005",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:00:24.288Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.88005.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2947000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.88005.1008",
+          "status": "Indent",
+          "location": null,
+          "price": 2947000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.88005.1003",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3095000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.88005.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6483000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.88005.2503",
+          "status": "Indent",
+          "location": null,
+          "price": 6806000
+        }
+      ]
+    },
+    {
+      "name": "Aquastar® CombiTitrant 5 Keto",
+      "catalogNo": "1.88006",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/188006",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:00:49.017Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.88006.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3523000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.88006.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 3699000
+        }
+      ]
+    },
+    {
+      "name": "Aquastar® CombiSolvent Keto",
+      "catalogNo": "1.88007",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/188007",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:01:14.567Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.88007.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2334000
+        }
+      ]
+    },
+    {
+      "name": "Aquastar® CombiSolvent",
+      "catalogNo": "1.88008",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/188008",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:01:39.340Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.88008.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1561000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.88008.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3442000
+        }
+      ]
+    },
+    {
+      "name": "Aquastar® CombiMethanol",
+      "catalogNo": "1.88009",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/188009",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:02:06.799Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.88009.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 842000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.88009.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1391000
+        }
+      ]
+    },
+    {
+      "name": "Aquastar® Titrant 5",
+      "catalogNo": "1.88010",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/188010",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:02:40.970Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.88010.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2128000
+        },
+        {
+          "size": "1 L",
+          "sku": "1.88010.1003",
+          "status": "Indent",
+          "location": null,
+          "price": 2233000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.88010.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4683000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.88010.2543",
+          "status": "Indent",
+          "location": null,
+          "price": 4914000
+        }
+      ]
+    },
+    {
+      "name": "Aquastar® Titrant 2",
+      "catalogNo": "1.88011",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/188011",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:03:07.905Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.88011.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2128000
+        }
+      ]
+    },
+    {
+      "name": "Aquastar® Solvent",
+      "catalogNo": "1.88015",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/188015",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:03:34.178Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.88015.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2838000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "1.88015.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6243000
+        }
+      ]
+    },
+    {
+      "name": "Aquastar® Solvent Oils & Fats",
+      "catalogNo": "1.88016",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/188016",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:04:06.577Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.88016.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3873000
+        }
+      ]
+    },
+    {
+      "name": "Aquastar® CombiSolvent Oil",
+      "catalogNo": "1.88020",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/188020",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:04:32.390Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.88020.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2590000
+        }
+      ]
+    },
+    {
+      "name": "Aquastar® CombiSolvent Fats",
+      "catalogNo": "1.88021",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/188021",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:05:03.906Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "1.88021.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2372000
+        }
+      ]
     }
   ]
 }
