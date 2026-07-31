@@ -10661,6 +10661,74 @@
           "price": 1841000
         }
       ]
+    },
+    {
+      "name": "Acrylic acid",
+      "catalogNo": "8.00181",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800181",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:37:38.325Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00181.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2012000
+        }
+      ]
+    },
+    {
+      "name": "Octanoic acid",
+      "catalogNo": "8.00192",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800192",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:38:21.306Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00192.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2136000
+        }
+      ]
+    },
+    {
+      "name": "Hexanoic acid",
+      "catalogNo": "8.00198",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800198",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:38:42.702Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00198.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1709000
+        }
+      ]
+    },
+    {
+      "name": "3-Chloro-1-propene",
+      "catalogNo": "8.00257",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800257",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:42:06.127Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00257.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1680000
+        }
+      ]
     }
   ]
 }
