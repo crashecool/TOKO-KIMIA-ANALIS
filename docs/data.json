@@ -10445,6 +10445,99 @@
           "price": 6016000
         }
       ]
+    },
+    {
+      "name": "Acetonitrile solution",
+      "catalogNo": "4.80448",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/480448",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:17:17.802Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "4.80448.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 6675000
+        },
+        {
+          "size": "30 L",
+          "sku": "4.80448.9030",
+          "status": "Indent",
+          "location": null,
+          "price": 50261000
+        }
+      ]
+    },
+    {
+      "name": "Sulfuric acid",
+      "catalogNo": "4.80531",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/480531",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:17:40.978Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "4.80531.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1159000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "4.80531.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2271000
+        }
+      ]
+    },
+    {
+      "name": "Water",
+      "catalogNo": "4.86505",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/486505",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:18:03.708Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "4.86505.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 568000
+        },
+        {
+          "size": "5 L",
+          "sku": "4.86505.5000",
+          "status": "Indent",
+          "location": null,
+          "price": 4171000
+        },
+        {
+          "size": "10 L",
+          "sku": "4.86505.9010",
+          "status": "Indent",
+          "location": null,
+          "price": 5627000
+        },
+        {
+          "size": "20 L",
+          "sku": "4.86505.9020",
+          "status": "Indent",
+          "location": null,
+          "price": 7276000
+        },
+        {
+          "size": "200 L",
+          "sku": "4.86505.9200",
+          "status": "Indent",
+          "location": null,
+          "price": 44987000
+        }
+      ]
     }
   ]
 }

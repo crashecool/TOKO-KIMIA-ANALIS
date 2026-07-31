@@ -3039,3 +3039,6 @@ https://www.sigmaaldrich.com/ID/id/product/mm/199022
 https://www.sigmaaldrich.com/ID/id/product/mm/199057
 https://www.sigmaaldrich.com/ID/id/product/mm/480112
 https://www.sigmaaldrich.com/ID/id/product/mm/480364
+https://www.sigmaaldrich.com/ID/id/product/mm/480448
+https://www.sigmaaldrich.com/ID/id/product/mm/480531
+https://www.sigmaaldrich.com/ID/id/product/mm/486505
