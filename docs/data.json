@@ -10729,6 +10729,81 @@
           "price": 1680000
         }
       ]
+    },
+    {
+      "name": "Butyric acid",
+      "catalogNo": "8.00457",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800457",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:50:11.504Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00457.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1271000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.00457.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2871000
+        }
+      ]
+    },
+    {
+      "name": "Benzenesulfonyl chloride",
+      "catalogNo": "8.00470",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800470",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:52:06.636Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "8.00470.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3513000
+        }
+      ]
+    },
+    {
+      "name": "Isobutyric acid",
+      "catalogNo": "8.00472",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800472",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:52:28.452Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00472.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1368000
+        }
+      ]
+    },
+    {
+      "name": "Butyric anhydride",
+      "catalogNo": "8.00503",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/800503",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:53:58.125Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.00503.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1959000
+        }
+      ]
     }
   ]
 }

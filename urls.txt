@@ -3052,3 +3052,7 @@ https://www.sigmaaldrich.com/ID/id/product/mm/800181
 https://www.sigmaaldrich.com/ID/id/product/mm/800192
 https://www.sigmaaldrich.com/ID/id/product/mm/800198
 https://www.sigmaaldrich.com/ID/id/product/mm/800257
+https://www.sigmaaldrich.com/ID/id/product/mm/800457
+https://www.sigmaaldrich.com/ID/id/product/mm/800470
+https://www.sigmaaldrich.com/ID/id/product/mm/800472
+https://www.sigmaaldrich.com/ID/id/product/mm/800503
