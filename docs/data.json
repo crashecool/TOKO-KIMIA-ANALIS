@@ -10363,6 +10363,88 @@
           "price": 2372000
         }
       ]
+    },
+    {
+      "name": "Buffer Solution",
+      "catalogNo": "1.99022",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/199022",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:13:43.946Z",
+      "variants": [
+        {
+          "size": "4 L",
+          "sku": "1.99022.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 4289000
+        }
+      ]
+    },
+    {
+      "name": "Buffer solution",
+      "catalogNo": "1.99057",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/199057",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:14:52.830Z",
+      "variants": [
+        {
+          "size": "4 L",
+          "sku": "1.99057.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 3930000
+        }
+      ]
+    },
+    {
+      "name": "Trifluoroacetic acid solution",
+      "catalogNo": "4.80112",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/480112",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:16:22.269Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "4.80112.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1601000
+        },
+        {
+          "size": "30 L",
+          "sku": "4.80112.9030",
+          "status": "Indent",
+          "location": null,
+          "price": 11462000
+        }
+      ]
+    },
+    {
+      "name": "Sulfuric acid solution",
+      "catalogNo": "4.80364",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/480364",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T07:16:49.905Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "4.80364.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 733000
+        },
+        {
+          "size": "25 L",
+          "sku": "4.80364.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 6016000
+        }
+      ]
     }
   ]
 }
