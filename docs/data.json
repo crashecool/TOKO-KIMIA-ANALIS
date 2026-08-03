@@ -14277,6 +14277,57 @@
           "price": 1712000
         }
       ]
+    },
+    {
+      "name": "2-Ethylhexyl acetate",
+      "catalogNo": "8.14342",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814342",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T06:38:33.031Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14342.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1393000
+        }
+      ]
+    },
+    {
+      "name": "Didecyldimethylammonium chloride",
+      "catalogNo": "8.14364",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814364",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T06:41:17.100Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14364.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2365000
+        }
+      ]
+    },
+    {
+      "name": "Glutardialdehyde",
+      "catalogNo": "8.14393",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814393",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T06:43:38.243Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14393.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2471000
+        }
+      ]
     }
   ]
 }
