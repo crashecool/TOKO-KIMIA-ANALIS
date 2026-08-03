@@ -14328,6 +14328,23 @@
           "price": 2471000
         }
       ]
+    },
+    {
+      "name": "Chlorobenzene",
+      "catalogNo": "8.14506",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814506",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T06:53:07.945Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14506.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1398000
+        }
+      ]
     }
   ]
 }
