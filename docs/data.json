@@ -12615,6 +12615,159 @@
           "price": 1483000
         }
       ]
+    },
+    {
+      "name": "Epichlorohydrin",
+      "catalogNo": "8.03296",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803296",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:56:33.433Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03296.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2217000
+        }
+      ]
+    },
+    {
+      "name": "n-Decane",
+      "catalogNo": "8.03405",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803405",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:56:56.049Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03405.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 5588000
+        }
+      ]
+    },
+    {
+      "name": "Dichlorodimethylsilane",
+      "catalogNo": "8.03452",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803452",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:57:18.972Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03452.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3047000
+        }
+      ]
+    },
+    {
+      "name": "1-Dodecanol",
+      "catalogNo": "8.03462",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803462",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:58:03.455Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03462.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1762000
+        }
+      ]
+    },
+    {
+      "name": "1-Decanol",
+      "catalogNo": "8.03463",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803463",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:58:25.813Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03463.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1495000
+        }
+      ]
+    },
+    {
+      "name": "N,N-Dimethyltrimethylenediamine",
+      "catalogNo": "8.03503",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803503",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:59:36.220Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03503.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1007000
+        }
+      ]
+    },
+    {
+      "name": "Diallylamine",
+      "catalogNo": "8.03521",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803521",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:01:07.617Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03521.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2679000
+        }
+      ]
+    },
+    {
+      "name": "Dichloroacetic acid",
+      "catalogNo": "8.03541",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803541",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:03:04.201Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03541.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 9160000
+        }
+      ]
+    },
+    {
+      "name": "Dipropylamine",
+      "catalogNo": "8.03548",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803548",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:04:12.126Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03548.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 940000
+        }
+      ]
     }
   ]
 }
