@@ -11645,6 +11645,238 @@
           "price": 2933000
         }
       ]
+    },
+    {
+      "name": "1-Bromopropane",
+      "catalogNo": "8.01667",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801667",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:44:03.314Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01667.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3231000
+        }
+      ]
+    },
+    {
+      "name": "Bis(2-chloroethyl) ether",
+      "catalogNo": "8.01678",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801678",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:44:33.648Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01678.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2791000
+        }
+      ]
+    },
+    {
+      "name": "Benzaldehyde",
+      "catalogNo": "8.01756",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801756",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:44:57.218Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01756.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1453000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.01756.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2611000
+        }
+      ]
+    },
+    {
+      "name": "Bromobenzene",
+      "catalogNo": "8.01786",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801786",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:45:42.049Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01786.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2879000
+        }
+      ]
+    },
+    {
+      "name": "Chlorobenzene",
+      "catalogNo": "8.01791",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801791",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:46:04.434Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01791.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1140000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.01791.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2233000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.01791.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 8837000
+        }
+      ]
+    },
+    {
+      "name": "Benzonitrile",
+      "catalogNo": "8.01800",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801800",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:46:50.550Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01800.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2172000
+        }
+      ]
+    },
+    {
+      "name": "Benzoyl chloride",
+      "catalogNo": "8.01804",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801804",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:47:35.584Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01804.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1415000
+        }
+      ]
+    },
+    {
+      "name": "Benzyl chloride",
+      "catalogNo": "8.01809",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801809",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:48:27.774Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01809.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1108000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.01809.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2232000
+        }
+      ]
+    },
+    {
+      "name": "Benzylamine",
+      "catalogNo": "8.01812",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801812",
+      "source": "live_scrape",
+      "scrapedAt": "2026-07-31T08:49:11.744Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01812.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2156000
+        }
+      ]
+    },
+    {
+      "name": "Butyryl chloride",
+      "catalogNo": "8.01977",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/801977",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:09:49.556Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.01977.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2476000
+        }
+      ]
+    },
+    {
+      "name": "Decanoic acid",
+      "catalogNo": "8.02169",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/802169",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:11:19.541Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.02169.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2619000
+        }
+      ]
+    },
+    {
+      "name": "tert-Butyl acetate",
+      "catalogNo": "8.02189",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/802189",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:12:05.631Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.02189.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 4153000
+        }
+      ]
     }
   ]
 }
