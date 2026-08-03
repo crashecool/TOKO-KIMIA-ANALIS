@@ -13447,6 +13447,139 @@
           "price": 3189000
         }
       ]
+    },
+    {
+      "name": "Aminopropanol",
+      "catalogNo": "8.07020",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807020",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:05:18.089Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.07020.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1041000
+        }
+      ]
+    },
+    {
+      "name": "Propiophenone",
+      "catalogNo": "8.07024",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807024",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:05:42.686Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.07024.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2274000
+        }
+      ]
+    },
+    {
+      "name": "2-Pyrrolidone",
+      "catalogNo": "8.07041",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807041",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:07:17.045Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.07041.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2731000
+        }
+      ]
+    },
+    {
+      "name": "2-Propyn-1-ol",
+      "catalogNo": "8.07050",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807050",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:08:46.670Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.07050.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2270000
+        }
+      ]
+    },
+    {
+      "name": "Propylene carbonate",
+      "catalogNo": "8.07051",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807051",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:09:11.197Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.07051.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1503000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.07051.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 9361000
+        }
+      ]
+    },
+    {
+      "name": "Diethyl oxalate",
+      "catalogNo": "8.07059",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807059",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:09:33.606Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.07059.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1104000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.07059.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 16804000
+        }
+      ]
+    },
+    {
+      "name": "Nonanoic acid",
+      "catalogNo": "8.07167",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807167",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:14:34.621Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.07167.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1279000
+        }
+      ]
     }
   ]
 }
