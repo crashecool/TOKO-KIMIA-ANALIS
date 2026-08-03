@@ -13580,6 +13580,156 @@
           "price": 1279000
         }
       ]
+    },
+    {
+      "name": "Phenylhydrazine",
+      "catalogNo": "8.07250",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807250",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:15:52.432Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.07250.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5542000
+        }
+      ]
+    },
+    {
+      "name": "Ethylene glycol monophenyl ether",
+      "catalogNo": "8.07291",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807291",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:16:36.192Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.07291.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1715000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.07291.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 4047000
+        }
+      ]
+    },
+    {
+      "name": "Polyphosphoric acid",
+      "catalogNo": "8.07471",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807471",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:21:43.596Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "8.07471.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 5385000
+        }
+      ]
+    },
+    {
+      "name": "Isopropylamine",
+      "catalogNo": "8.07476",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807476",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:22:06.246Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.07476.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1228000
+        }
+      ]
+    },
+    {
+      "name": "Propylamine",
+      "catalogNo": "8.07477",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807477",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:22:33.787Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.07477.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1302000
+        }
+      ]
+    },
+    {
+      "name": "Ethylene glycol monoisopropyl ether",
+      "catalogNo": "8.07480",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807480",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:22:56.635Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.07480.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 730000
+        }
+      ]
+    },
+    {
+      "name": "1,3-Propanediol",
+      "catalogNo": "8.07481",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807481",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:23:18.357Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.07481.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 4247000
+        }
+      ]
+    },
+    {
+      "name": "Polyethylene glycol",
+      "catalogNo": "8.07485",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807485",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:24:24.824Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.07485.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 972000
+        },
+        {
+          "size": "5 L",
+          "sku": "8.07485.5000",
+          "status": "Indent",
+          "location": null,
+          "price": 3231000
+        }
+      ]
     }
   ]
 }
