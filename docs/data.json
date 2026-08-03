@@ -12949,6 +12949,81 @@
           "price": 2300000
         }
       ]
+    },
+    {
+      "name": "Isophorone",
+      "catalogNo": "8.04807",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/804807",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:28:53.765Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.04807.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1497000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.04807.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2483000
+        }
+      ]
+    },
+    {
+      "name": "1-Chlorododecane",
+      "catalogNo": "8.05340",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/805340",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:32:37.270Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.05340.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2160000
+        }
+      ]
+    },
+    {
+      "name": "2-Mercaptoethanol",
+      "catalogNo": "8.05740",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/805740",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:33:58.684Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.05740.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3171000
+        }
+      ]
+    },
+    {
+      "name": "Mesityl oxide",
+      "catalogNo": "8.05791",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/805791",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:34:22.793Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.05791.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2480000
+        }
+      ]
     }
   ]
 }
