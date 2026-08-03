@@ -14614,6 +14614,122 @@
           "price": 2329000
         }
       ]
+    },
+    {
+      "name": "Tetramethylammonium hydroxide",
+      "catalogNo": "8.14748",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814748",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T07:25:04.677Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14748.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5054000
+        }
+      ]
+    },
+    {
+      "name": "Terpineol",
+      "catalogNo": "8.14759",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814759",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T07:25:58.815Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14759.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1973000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.14759.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 4478000
+        }
+      ]
+    },
+    {
+      "name": "Ethyloleate",
+      "catalogNo": "8.14762",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814762",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T07:26:46.760Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14762.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2785000
+        }
+      ]
+    },
+    {
+      "name": "Tritolyl phosphate",
+      "catalogNo": "8.14811",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814811",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T07:31:11.000Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14811.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3431000
+        }
+      ]
+    },
+    {
+      "name": "Sodium chlorite",
+      "catalogNo": "8.14815",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814815",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T07:31:33.402Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14815.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2145000
+        }
+      ]
+    },
+    {
+      "name": "Alkylbenzyldimethylammonium chloride",
+      "catalogNo": "8.14858",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814858",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T07:32:22.722Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14858.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1393000
+        },
+        {
+          "size": "5 L",
+          "sku": "8.14858.5000",
+          "status": "Indent",
+          "location": null,
+          "price": 5591000
+        }
+      ]
     }
   ]
 }
