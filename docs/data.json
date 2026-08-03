@@ -14345,6 +14345,132 @@
           "price": 1398000
         }
       ]
+    },
+    {
+      "name": "Methyl propyl ketone",
+      "catalogNo": "8.14536",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814536",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T06:54:55.497Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14536.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1171000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.14536.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2222000
+        }
+      ]
+    },
+    {
+      "name": "DL-Limonene",
+      "catalogNo": "8.14546",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814546",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T06:56:05.519Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14546.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1596000
+        }
+      ]
+    },
+    {
+      "name": "Formaldehyde diethyl acetal",
+      "catalogNo": "8.14549",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814549",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T06:56:27.921Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14549.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1147000
+        }
+      ]
+    },
+    {
+      "name": "Bis(2-ethylhexyl) sebacate",
+      "catalogNo": "8.14576",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814576",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T07:00:22.748Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14576.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2271000
+        }
+      ]
+    },
+    {
+      "name": "Triethylene glycol monomethyl ether",
+      "catalogNo": "8.14587",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814587",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T07:01:32.880Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14587.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1540000
+        }
+      ]
+    },
+    {
+      "name": "1,2-Propylene glycol diacetate",
+      "catalogNo": "8.14588",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814588",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T07:02:04.588Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14588.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1316000
+        }
+      ]
+    },
+    {
+      "name": "Squalane",
+      "catalogNo": "8.14605",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814605",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T07:02:55.885Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14605.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 13694000
+        }
+      ]
     }
   ]
 }
