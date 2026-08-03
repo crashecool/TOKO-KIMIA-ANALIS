@@ -14260,6 +14260,23 @@
           "price": 2746000
         }
       ]
+    },
+    {
+      "name": "3-Diethylamino-1-propylamine",
+      "catalogNo": "8.14100",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814100",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T06:21:12.835Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14100.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1712000
+        }
+      ]
     }
   ]
 }
