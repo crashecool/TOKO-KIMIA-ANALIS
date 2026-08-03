@@ -13024,6 +13024,98 @@
           "price": 2480000
         }
       ]
+    },
+    {
+      "name": "4-Methyl-2-pentanol",
+      "catalogNo": "8.05804",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/805804",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:36:38.828Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.05804.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1415000
+        }
+      ]
+    },
+    {
+      "name": "1-Methylimidazole",
+      "catalogNo": "8.05852",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/805852",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:38:39.067Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.05852.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5591000
+        }
+      ]
+    },
+    {
+      "name": "4-Methylmorpholine",
+      "catalogNo": "8.05894",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/805894",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:39:57.418Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.05894.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2597000
+        }
+      ]
+    },
+    {
+      "name": "Isopropyl methyl ketone",
+      "catalogNo": "8.05966",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/805966",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:42:38.165Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.05966.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1981000
+        }
+      ]
+    },
+    {
+      "name": "Formaldehyde dimethyl acetal",
+      "catalogNo": "8.06017",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/806017",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:44:23.342Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.06017.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 930000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.06017.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1479000
+        }
+      ]
     }
   ]
 }
