@@ -13812,6 +13812,115 @@
           "price": 4467000
         }
       ]
+    },
+    {
+      "name": "Sulfolane",
+      "catalogNo": "8.07993",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807993",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:34:24.902Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.07993.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3079000
+        }
+      ]
+    },
+    {
+      "name": "Thiophene",
+      "catalogNo": "8.08157",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/808157",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:37:21.004Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.08157.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3301000
+        }
+      ]
+    },
+    {
+      "name": "Triethylene glycol",
+      "catalogNo": "8.08245",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/808245",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:40:23.323Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.08245.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1209000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.08245.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1660000
+        }
+      ]
+    },
+    {
+      "name": "Trichloromethylsilane",
+      "catalogNo": "8.08255",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/808255",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:41:12.502Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.08255.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1843000
+        }
+      ]
+    },
+    {
+      "name": "2,2,2-Trifluoroethanol",
+      "catalogNo": "8.08259",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/808259",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:41:35.343Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.08259.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 7735000
+        }
+      ]
+    },
+    {
+      "name": "Trifluoroacetic acid",
+      "catalogNo": "8.08260",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/808260",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:41:58.642Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.08260.1001",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 8601000
+        }
+      ]
     }
   ]
 }
