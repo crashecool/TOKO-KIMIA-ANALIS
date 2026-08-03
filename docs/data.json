@@ -12768,6 +12768,98 @@
           "price": 940000
         }
       ]
+    },
+    {
+      "name": "Divinylbenzene",
+      "catalogNo": "8.03598",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803598",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:07:46.428Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03598.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3211000
+        }
+      ]
+    },
+    {
+      "name": "Diethyl ketone",
+      "catalogNo": "8.03605",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803605",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:08:54.625Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03605.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1260000
+        }
+      ]
+    },
+    {
+      "name": "Diisopropylamine",
+      "catalogNo": "8.03646",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803646",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:09:18.753Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03646.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1636000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.03646.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3204000
+        }
+      ]
+    },
+    {
+      "name": "Furfural",
+      "catalogNo": "8.04012",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/804012",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:13:17.778Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.04012.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1264000
+        }
+      ]
+    },
+    {
+      "name": "Furfuryl alcohol",
+      "catalogNo": "8.04015",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/804015",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:13:42.317Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.04015.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1473000
+        }
+      ]
     }
   ]
 }
