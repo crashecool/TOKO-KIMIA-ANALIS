@@ -12133,6 +12133,297 @@
           "price": 6051000
         }
       ]
+    },
+    {
+      "name": "2,2-Dimethoxypropane",
+      "catalogNo": "8.02936",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/802936",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:36:32.410Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.02936.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2748000
+        }
+      ]
+    },
+    {
+      "name": "Dicyclohexylamine",
+      "catalogNo": "8.02948",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/802948",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:37:18.499Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.02948.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1539000
+        }
+      ]
+    },
+    {
+      "name": "Diethylamine",
+      "catalogNo": "8.03010",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803010",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:38:48.905Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03010.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 761000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.03010.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1467000
+        },
+        {
+          "size": "50 L",
+          "sku": "8.03010.9050",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 21232000
+        }
+      ]
+    },
+    {
+      "name": "Dicyclopentadiene",
+      "catalogNo": "8.03038",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803038",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:39:11.262Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03038.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 873000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.03038.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1435000
+        }
+      ]
+    },
+    {
+      "name": "N,N-Dimethylaniline",
+      "catalogNo": "8.03060",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803060",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:40:20.709Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03060.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1537000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.03060.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2613000
+        }
+      ]
+    },
+    {
+      "name": "Decahydronaphthalene",
+      "catalogNo": "8.03101",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803101",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:41:28.048Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03101.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1581000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.03101.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2779000
+        }
+      ]
+    },
+    {
+      "name": "Diethanolamine",
+      "catalogNo": "8.03116",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803116",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:42:13.714Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03116.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1306000
+        },
+        {
+          "size": "5 L",
+          "sku": "8.03116.5000",
+          "status": "Indent",
+          "location": null,
+          "price": 5300000
+        },
+        {
+          "size": "50 L",
+          "sku": "8.03116.9051",
+          "status": "Indent",
+          "location": null,
+          "price": 15416000
+        }
+      ]
+    },
+    {
+      "name": "Diethylene glycol monoethyl ether",
+      "catalogNo": "8.03127",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803127",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:42:58.789Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "8.03127.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1648000
+        }
+      ]
+    },
+    {
+      "name": "Diethylene glycol monomethyl ether",
+      "catalogNo": "8.03128",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803128",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:43:22.244Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03128.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1191000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.03128.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2354000
+        }
+      ]
+    },
+    {
+      "name": "Diethylene glycol monobutyl ether",
+      "catalogNo": "8.03129",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803129",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:43:46.751Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03129.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 808000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.03129.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1603000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.03129.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 7342000
+        }
+      ]
+    },
+    {
+      "name": "Benzyl acetate",
+      "catalogNo": "8.03181",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803181",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:44:31.669Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03181.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1494000
+        }
+      ]
+    },
+    {
+      "name": "Propyl acetate",
+      "catalogNo": "8.03183",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803183",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:44:54.316Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03183.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1770000
+        }
+      ]
+    },
+    {
+      "name": "Vinyl acetate",
+      "catalogNo": "8.03184",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803184",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:45:16.708Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03184.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1651000
+        }
+      ]
     }
   ]
 }
