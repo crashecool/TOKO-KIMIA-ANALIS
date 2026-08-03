@@ -13321,6 +13321,132 @@
           "price": 1626000
         }
       ]
+    },
+    {
+      "name": "Nitrobenzene",
+      "catalogNo": "8.06770",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/806770",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:56:55.392Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.06770.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1362000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.06770.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2482000
+        }
+      ]
+    },
+    {
+      "name": "2-Nitrotoluene",
+      "catalogNo": "8.06806",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/806806",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:58:04.716Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.06806.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1399000
+        }
+      ]
+    },
+    {
+      "name": "n-Nonane",
+      "catalogNo": "8.06838",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/806838",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:58:54.728Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.06838.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 10491000
+        }
+      ]
+    },
+    {
+      "name": "1-Nitropropane",
+      "catalogNo": "8.06851",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/806851",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:59:39.948Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.06851.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3046000
+        }
+      ]
+    },
+    {
+      "name": "n-Octane",
+      "catalogNo": "8.06910",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/806910",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:01:34.646Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.06910.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6087000
+        }
+      ]
+    },
+    {
+      "name": "Octylamine",
+      "catalogNo": "8.06917",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/806917",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:03:29.388Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.06917.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3085000
+        }
+      ]
+    },
+    {
+      "name": "2-Phenylethanol",
+      "catalogNo": "8.07006",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807006",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:04:42.537Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.07006.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3189000
+        }
+      ]
     }
   ]
 }
