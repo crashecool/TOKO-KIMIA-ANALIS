@@ -14133,6 +14133,133 @@
           "price": 2133000
         }
       ]
+    },
+    {
+      "name": "Ethyl acetoacetate",
+      "catalogNo": "8.09622",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/809622",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T06:05:02.983Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.09622.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1362000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.09622.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2805000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.09622.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 16032000
+        }
+      ]
+    },
+    {
+      "name": "m-Cresol",
+      "catalogNo": "8.09691",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/809691",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T06:05:31.390Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.09691.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2498000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.09691.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 5518000
+        }
+      ]
+    },
+    {
+      "name": "o-Cresol",
+      "catalogNo": "8.09692",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/809692",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T06:06:02.666Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.09692.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1676000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.09692.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2618000
+        }
+      ]
+    },
+    {
+      "name": "Methyl acetate",
+      "catalogNo": "8.09711",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/809711",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T06:06:46.353Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.09711.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 916000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.09711.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2188000
+        }
+      ]
+    },
+    {
+      "name": "1,2,3,4-Tetrahydronaphthalene",
+      "catalogNo": "8.09733",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/809733",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T06:07:34.791Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.09733.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1175000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.09733.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2746000
+        }
+      ]
     }
   ]
 }
