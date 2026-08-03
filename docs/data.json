@@ -14730,6 +14730,23 @@
           "price": 5591000
         }
       ]
+    },
+    {
+      "name": "2-Methyl-2-butene",
+      "catalogNo": "8.14874",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814874",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T07:34:48.682Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14874.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2206000
+        }
+      ]
     }
   ]
 }
