@@ -11928,6 +11928,211 @@
           "price": 3397000
         }
       ]
+    },
+    {
+      "name": "Cyclopentanone",
+      "catalogNo": "8.02670",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/802670",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:28:19.095Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.02670.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3031000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.02670.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 6030000
+        }
+      ]
+    },
+    {
+      "name": "Cumene",
+      "catalogNo": "8.02681",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/802681",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:29:54.453Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.02681.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1159000
+        }
+      ]
+    },
+    {
+      "name": "2-Chloropropane",
+      "catalogNo": "8.02809",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/802809",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:31:26.155Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "8.02809.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3466000
+        }
+      ]
+    },
+    {
+      "name": "Cyclohexene",
+      "catalogNo": "8.02824",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/802824",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:32:59.523Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.02824.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1295000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.02824.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2433000
+        }
+      ]
+    },
+    {
+      "name": "Cyclohexylamine",
+      "catalogNo": "8.02885",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/802885",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:34:07.158Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.02885.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1104000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.02885.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2327000
+        }
+      ]
+    },
+    {
+      "name": "Dibutyl ether",
+      "catalogNo": "8.02892",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/802892",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:34:29.315Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.02892.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1856000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.02892.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2564000
+        }
+      ]
+    },
+    {
+      "name": "Diethyl carbonate",
+      "catalogNo": "8.02898",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/802898",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:34:52.649Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.02898.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1184000
+        }
+      ]
+    },
+    {
+      "name": "Diethylene glycol diethyl ether",
+      "catalogNo": "8.02932",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/802932",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:35:15.584Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.02932.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3275000
+        }
+      ]
+    },
+    {
+      "name": "Diethylene glycol dibutyl ether",
+      "catalogNo": "8.02933",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/802933",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:35:38.197Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.02933.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3758000
+        }
+      ]
+    },
+    {
+      "name": "Diethylene glycol dimethyl ether",
+      "catalogNo": "8.02934",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/802934",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:36:03.672Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.02934.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3922000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.02934.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 6051000
+        }
+      ]
     }
   ]
 }
