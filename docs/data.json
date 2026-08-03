@@ -14546,6 +14546,74 @@
           "price": 47039000
         }
       ]
+    },
+    {
+      "name": "Tetraethylene pentamine",
+      "catalogNo": "8.14713",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814713",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T07:18:28.380Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14713.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2573000
+        }
+      ]
+    },
+    {
+      "name": "Isoamyl butyrate",
+      "catalogNo": "8.14724",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814724",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T07:20:45.470Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14724.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1734000
+        }
+      ]
+    },
+    {
+      "name": "Diisodecyl phthalate",
+      "catalogNo": "8.14732",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814732",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T07:22:27.004Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14732.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3638000
+        }
+      ]
+    },
+    {
+      "name": "2,4,4-Trimethylpentene",
+      "catalogNo": "8.14734",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/814734",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T07:23:12.679Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.14734.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2329000
+        }
+      ]
     }
   ]
 }
