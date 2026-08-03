@@ -3108,3 +3108,6 @@ https://www.sigmaaldrich.com/ID/id/product/mm/801812
 https://www.sigmaaldrich.com/ID/id/product/mm/801977
 https://www.sigmaaldrich.com/ID/id/product/mm/802169
 https://www.sigmaaldrich.com/ID/id/product/mm/802189
+https://www.sigmaaldrich.com/ID/id/product/mm/802407
+https://www.sigmaaldrich.com/ID/id/product/mm/802413
+https://www.sigmaaldrich.com/ID/id/product/mm/802505

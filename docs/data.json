@@ -11877,6 +11877,57 @@
           "price": 4153000
         }
       ]
+    },
+    {
+      "name": "Quinoline",
+      "catalogNo": "8.02407",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/802407",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:17:50.453Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.02407.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4880000
+        }
+      ]
+    },
+    {
+      "name": "Methyl chloroacetate",
+      "catalogNo": "8.02413",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/802413",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:18:56.843Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.02413.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1641000
+        }
+      ]
+    },
+    {
+      "name": "trans-Cinnamaldehyde",
+      "catalogNo": "8.02505",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/802505",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:21:57.282Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.02505.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3397000
+        }
+      ]
     }
   ]
 }
