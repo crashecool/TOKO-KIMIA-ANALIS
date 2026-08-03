@@ -13921,6 +13921,95 @@
           "price": 8601000
         }
       ]
+    },
+    {
+      "name": "Titanium(III) chloride solution",
+      "catalogNo": "8.08307",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/808307",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:45:54.868Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.08307.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5192000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.08307.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 9276000
+        }
+      ]
+    },
+    {
+      "name": "m-Toluidine",
+      "catalogNo": "8.08314",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/808314",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:46:44.768Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.08314.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1708000
+        }
+      ]
+    },
+    {
+      "name": "Triethylamine",
+      "catalogNo": "8.08352",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/808352",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:49:02.520Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.08352.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1092000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.08352.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2663000
+        }
+      ]
+    },
+    {
+      "name": "Tributylamine",
+      "catalogNo": "8.08358",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/808358",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:49:30.165Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.08358.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 956000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.08358.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1908000
+        }
+      ]
     }
   ]
 }
