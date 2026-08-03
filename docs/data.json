@@ -12860,6 +12860,95 @@
           "price": 1473000
         }
       ]
+    },
+    {
+      "name": "1-Hexanol",
+      "catalogNo": "8.04393",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/804393",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:20:04.018Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.04393.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1403000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.04393.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2916000
+        }
+      ]
+    },
+    {
+      "name": "4-Hydroxy-4-methyl-2-pentanone",
+      "catalogNo": "8.04512",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/804512",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:20:53.911Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.04512.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1182000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.04512.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2465000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.04512.6025",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 13952000
+        }
+      ]
+    },
+    {
+      "name": "Hydrazin hydrate solution",
+      "catalogNo": "8.04604",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/804604",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:23:51.736Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.04604.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2700000
+        }
+      ]
+    },
+    {
+      "name": "Hydrazinium hydroxide",
+      "catalogNo": "8.04608",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/804608",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:24:22.880Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.04608.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2300000
+        }
+      ]
     }
   ]
 }
