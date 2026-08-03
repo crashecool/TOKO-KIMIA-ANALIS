@@ -13730,6 +13730,88 @@
           "price": 3231000
         }
       ]
+    },
+    {
+      "name": "Pyrrolidine",
+      "catalogNo": "8.07494",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807494",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:27:07.892Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.07494.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3975000
+        }
+      ]
+    },
+    {
+      "name": "n-Amyl alcohol",
+      "catalogNo": "8.07500",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807500",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:27:29.672Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.07500.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1298000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.07500.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2717000
+        }
+      ]
+    },
+    {
+      "name": "Styrene",
+      "catalogNo": "8.07679",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807679",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:31:58.415Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.07679.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1025000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.07679.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1901000
+        }
+      ]
+    },
+    {
+      "name": "Silicon tetrachloride",
+      "catalogNo": "8.07706",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/807706",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:32:45.119Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.07706.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 4467000
+        }
+      ]
     }
   ]
 }
