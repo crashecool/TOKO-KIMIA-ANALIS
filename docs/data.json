@@ -12424,6 +12424,197 @@
           "price": 1651000
         }
       ]
+    },
+    {
+      "name": "N,N-Dimethylbenzylamine",
+      "catalogNo": "8.03206",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803206",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:46:09.641Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03206.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2722000
+        }
+      ]
+    },
+    {
+      "name": "1,1-Dichloroethylene",
+      "catalogNo": "8.03209",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803209",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:46:31.954Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03209.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1463000
+        }
+      ]
+    },
+    {
+      "name": "Dibutylamine",
+      "catalogNo": "8.03222",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803222",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:48:05.187Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03222.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1109000
+        }
+      ]
+    },
+    {
+      "name": "1,4-Dichlorobutane",
+      "catalogNo": "8.03227",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803227",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:48:50.418Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03227.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2550000
+        }
+      ]
+    },
+    {
+      "name": "N,N-Dimethylacetamide",
+      "catalogNo": "8.03235",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803235",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:49:14.221Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03235.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1547000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.03235.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3363000
+        }
+      ]
+    },
+    {
+      "name": "2-(Dimethylamino)-ethanol",
+      "catalogNo": "8.03237",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803237",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:49:37.217Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03237.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1048000
+        }
+      ]
+    },
+    {
+      "name": "1,2-Dichlorobenzene",
+      "catalogNo": "8.03238",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803238",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:49:59.841Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03238.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1297000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.03238.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3107000
+        }
+      ]
+    },
+    {
+      "name": "Dipropylene glycol",
+      "catalogNo": "8.03265",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803265",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:53:48.237Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03265.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1521000
+        }
+      ]
+    },
+    {
+      "name": "2-(Diethylamino)-ethanol",
+      "catalogNo": "8.03273",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803273",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:54:33.835Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03273.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1059000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.03273.9027",
+          "status": "Indent",
+          "location": null,
+          "price": 9510000
+        }
+      ]
+    },
+    {
+      "name": "Diethylenetriamine",
+      "catalogNo": "8.03274",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/803274",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T03:54:56.008Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.03274.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1483000
+        }
+      ]
     }
   ]
 }
