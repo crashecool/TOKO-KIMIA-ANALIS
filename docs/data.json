@@ -13116,6 +13116,211 @@
           "price": 1479000
         }
       ]
+    },
+    {
+      "name": "Methanesulfonic acid",
+      "catalogNo": "8.06022",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/806022",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:45:36.240Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.06022.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 5374000
+        }
+      ]
+    },
+    {
+      "name": "2-Methyl-1-butanol",
+      "catalogNo": "8.06031",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/806031",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:45:58.622Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.06031.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1529000
+        }
+      ]
+    },
+    {
+      "name": "2-Methoxyethyl acetate",
+      "catalogNo": "8.06061",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/806061",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:46:24.631Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.06061.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1681000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.06061.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 4503000
+        }
+      ]
+    },
+    {
+      "name": "NMP",
+      "catalogNo": "8.06072",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/806072",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:46:49.374Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.06072.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1909000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.06072.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3978000
+        }
+      ]
+    },
+    {
+      "name": "α-Methylstyrene",
+      "catalogNo": "8.06086",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/806086",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:47:16.355Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.06086.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1298000
+        }
+      ]
+    },
+    {
+      "name": "N-Methylaniline",
+      "catalogNo": "8.06096",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/806096",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:47:39.551Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.06096.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1983000
+        }
+      ]
+    },
+    {
+      "name": "Methylcyclohexane",
+      "catalogNo": "8.06147",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/806147",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:48:23.812Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.06147.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1144000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.06147.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2729000
+        },
+        {
+          "size": "10 L",
+          "sku": "8.06147.6010",
+          "status": "Indent",
+          "location": null,
+          "price": 8983000
+        }
+      ]
+    },
+    {
+      "name": "tert-Amyl alcohol",
+      "catalogNo": "8.06193",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/806193",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:50:15.012Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.06193.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2298000
+        }
+      ]
+    },
+    {
+      "name": "1-Bromonaphthalene",
+      "catalogNo": "8.06210",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/806210",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:51:05.842Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "8.06210.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 28218000
+        }
+      ]
+    },
+    {
+      "name": "Sodium hydrogen sulfite",
+      "catalogNo": "8.06356",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/806356",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T04:51:51.741Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.06356.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 831000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.06356.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1626000
+        }
+      ]
     }
   ]
 }
