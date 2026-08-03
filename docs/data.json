@@ -14010,6 +14010,129 @@
           "price": 1908000
         }
       ]
+    },
+    {
+      "name": "Pyrocatechol dimethyl ether",
+      "catalogNo": "8.08529",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/808529",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:55:38.784Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.08529.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2824000
+        }
+      ]
+    },
+    {
+      "name": "Tetraethylene glycol",
+      "catalogNo": "8.08619",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/808619",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T05:58:25.309Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.08619.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1204000
+        }
+      ]
+    },
+    {
+      "name": "2,6-Dimethylaniline",
+      "catalogNo": "8.08671",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/808671",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T06:01:07.609Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.08671.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3148000
+        }
+      ]
+    },
+    {
+      "name": "p-Xylene",
+      "catalogNo": "8.08691",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/808691",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T06:01:31.607Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.08691.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1354000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.08691.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2796000
+        }
+      ]
+    },
+    {
+      "name": "o-Xylene",
+      "catalogNo": "8.08697",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/808697",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T06:02:00.407Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.08697.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1866000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.08697.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4002000
+        },
+        {
+          "size": "10 L",
+          "sku": "8.08697.6010",
+          "status": "Indent",
+          "location": null,
+          "price": 10930000
+        }
+      ]
+    },
+    {
+      "name": "N,N,N′,N′-Tetramethyl ethylenediamine",
+      "catalogNo": "8.08742",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/808742",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T06:03:18.512Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.08742.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2133000
+        }
+      ]
     }
   ]
 }
