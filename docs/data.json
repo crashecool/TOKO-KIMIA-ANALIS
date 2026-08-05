@@ -15198,6 +15198,81 @@
           "price": 2748000
         }
       ]
+    },
+    {
+      "name": "Isoamyl alcohol",
+      "catalogNo": "8.18969",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818969",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T04:55:58.531Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18969.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2203000
+        }
+      ]
+    },
+    {
+      "name": "Ethylamine",
+      "catalogNo": "8.20024",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820024",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:00:15.343Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20024.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1158000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.20024.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1887000
+        }
+      ]
+    },
+    {
+      "name": "2-Ethyl-1,3-hexanediol",
+      "catalogNo": "8.20032",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820032",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:01:25.984Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20032.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1670000
+        }
+      ]
+    },
+    {
+      "name": "Aluminium tri-sec-butylate",
+      "catalogNo": "8.20054",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820054",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:02:56.507Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20054.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2469000
+        }
+      ]
     }
   ]
 }
