@@ -15290,6 +15290,125 @@
           "price": 1962000
         }
       ]
+    },
+    {
+      "name": "2-Chlorobenzaldehyde",
+      "catalogNo": "8.20276",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820276",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:23:34.384Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20276.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1970000
+        }
+      ]
+    },
+    {
+      "name": "2-Chlorobutane",
+      "catalogNo": "8.20281",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820281",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:23:57.312Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20281.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2219000
+        }
+      ]
+    },
+    {
+      "name": "Chlorocyclohexane",
+      "catalogNo": "8.20287",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820287",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:24:21.847Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20287.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2103000
+        }
+      ]
+    },
+    {
+      "name": "1-Chloronaphthalene",
+      "catalogNo": "8.20315",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820315",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:26:13.849Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20315.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3952000
+        }
+      ]
+    },
+    {
+      "name": "Methyl 2-chloropropionate",
+      "catalogNo": "8.20331",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820331",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:26:36.137Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20331.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3281000
+        }
+      ]
+    },
+    {
+      "name": "Tributyl citrate",
+      "catalogNo": "8.20350",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820350",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:27:00.258Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20350.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3201000
+        }
+      ]
+    },
+    {
+      "name": "n-Decane",
+      "catalogNo": "8.20383",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820383",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:30:21.691Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20383.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2651000
+        }
+      ]
     }
   ]
 }
