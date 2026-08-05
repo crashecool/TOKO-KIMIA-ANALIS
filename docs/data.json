@@ -15891,6 +15891,81 @@
           "price": 4751000
         }
       ]
+    },
+    {
+      "name": "Tetraethylene glycol dimethyl ether",
+      "catalogNo": "8.20959",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820959",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:33:41.209Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20959.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3039000
+        }
+      ]
+    },
+    {
+      "name": "Diphenyl ether",
+      "catalogNo": "8.20978",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820978",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:36:45.455Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20978.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1213000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.20978.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2733000
+        }
+      ]
+    },
+    {
+      "name": "Phenyl isocyanate",
+      "catalogNo": "8.21001",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/821001",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:39:04.879Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.21001.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2866000
+        }
+      ]
+    },
+    {
+      "name": "[2-(2-Butoxyethoxy)ethyl] acetate",
+      "catalogNo": "8.21014",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/821014",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:40:10.923Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "8.21014.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1586000
+        }
+      ]
     }
   ]
 }
