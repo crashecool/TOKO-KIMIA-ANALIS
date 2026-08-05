@@ -16201,6 +16201,23 @@
           "price": 1719000
         }
       ]
+    },
+    {
+      "name": "2-Ethylhexyl phosphate",
+      "catalogNo": "8.21943",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/821943",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:13:43.699Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.21943.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1683000
+        }
+      ]
     }
   ]
 }
