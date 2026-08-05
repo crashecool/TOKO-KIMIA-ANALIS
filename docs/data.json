@@ -16218,6 +16218,105 @@
           "price": 1683000
         }
       ]
+    },
+    {
+      "name": "Dimethylamine",
+      "catalogNo": "8.22033",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822033",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:21:13.071Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22033.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 861000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.22033.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1893000
+        }
+      ]
+    },
+    {
+      "name": "N,N-Dimethyl-p-toluidine",
+      "catalogNo": "8.22040",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822040",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:21:57.134Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22040.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2823000
+        }
+      ]
+    },
+    {
+      "name": "Hexamethylene diisocyanate",
+      "catalogNo": "8.22066",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822066",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:26:21.889Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22066.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 5264000
+        }
+      ]
+    },
+    {
+      "name": "Methylamine",
+      "catalogNo": "8.22091",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822091",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:28:39.365Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22091.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1045000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.22091.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1663000
+        }
+      ]
+    },
+    {
+      "name": "5-Methyl-2-hexanone",
+      "catalogNo": "8.22093",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822093",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:29:01.751Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22093.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1136000
+        }
+      ]
     }
   ]
 }
