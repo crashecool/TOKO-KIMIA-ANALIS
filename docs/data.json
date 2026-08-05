@@ -16813,6 +16813,140 @@
           "price": 1775000
         }
       ]
+    },
+    {
+      "name": "Acetic anhydride",
+      "catalogNo": "8.22278",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822278",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:48:00.056Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22278.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1186000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.22278.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2407000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.22278.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 11387000
+        }
+      ]
+    },
+    {
+      "name": "Methanol",
+      "catalogNo": "8.22283",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822283",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:48:44.703Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22283.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 305000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.22283.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 355000
+        },
+        {
+          "size": "5 L",
+          "sku": "8.22283.5000",
+          "status": "Indent",
+          "location": null,
+          "price": 637000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.22283.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 2108000
+        },
+        {
+          "size": "180 L",
+          "sku": "8.22283.9180",
+          "status": "Indent",
+          "location": null,
+          "price": 12911000
+        }
+      ]
+    },
+    {
+      "name": "Hydrogen peroxide solution",
+      "catalogNo": "8.22287",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822287",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:50:15.873Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22287.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1049000
+        }
+      ]
+    },
+    {
+      "name": "Tetrahydrofurfuryl alcohol",
+      "catalogNo": "8.22307",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822307",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:55:12.043Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22307.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 947000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.22307.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3220000
+        }
+      ]
+    },
+    {
+      "name": "4-Methoxybenzaldehyde",
+      "catalogNo": "8.22314",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822314",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:56:20.497Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22314.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 5743000
+        }
+      ]
     }
   ]
 }
