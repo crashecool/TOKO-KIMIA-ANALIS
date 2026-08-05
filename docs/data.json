@@ -14887,6 +14887,64 @@
           "price": 2108000
         }
       ]
+    },
+    {
+      "name": "Isophorone diisocyanate",
+      "catalogNo": "8.18586",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818586",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T04:18:32.964Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18586.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3344000
+        }
+      ]
+    },
+    {
+      "name": "Tributyl phosphate",
+      "catalogNo": "8.18604",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818604",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T04:20:54.046Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18604.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1744000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.18604.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3813000
+        }
+      ]
+    },
+    {
+      "name": "5-Methyl-3-heptanone",
+      "catalogNo": "8.18663",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818663",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T04:26:43.565Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18663.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1944000
+        }
+      ]
     }
   ]
 }
