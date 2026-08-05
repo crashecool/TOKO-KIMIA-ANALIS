@@ -15426,6 +15426,112 @@
           "price": 3288000
         }
       ]
+    },
+    {
+      "name": "n-Dodecane",
+      "catalogNo": "8.20543",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820543",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:45:23.798Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20543.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6630000
+        }
+      ]
+    },
+    {
+      "name": "1-Dodecanethiol",
+      "catalogNo": "8.20544",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820544",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:45:52.472Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20544.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3100000
+        },
+        {
+          "size": "10 L",
+          "sku": "8.20544.9011",
+          "status": "Indent",
+          "location": null,
+          "price": 12225000
+        }
+      ]
+    },
+    {
+      "name": "1,2-Epoxybutane",
+      "catalogNo": "8.20551",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820551",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:47:11.884Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20551.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1136000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.20551.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2768000
+        }
+      ]
+    },
+    {
+      "name": "Isobutyl acetate",
+      "catalogNo": "8.20557",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820557",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:48:58.417Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20557.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1512000
+        }
+      ]
+    },
+    {
+      "name": "Isopropyl acetate",
+      "catalogNo": "8.20560",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820560",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:49:23.991Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20560.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1416000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.20560.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1499000
+        }
+      ]
     }
   ]
 }
