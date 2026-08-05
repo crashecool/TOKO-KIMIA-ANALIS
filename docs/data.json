@@ -16317,6 +16317,197 @@
           "price": 1136000
         }
       ]
+    },
+    {
+      "name": "Methylstyrene",
+      "catalogNo": "8.22098",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822098",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:29:28.309Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22098.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1307000
+        }
+      ]
+    },
+    {
+      "name": "(S)-(-)-Ethyl lactate",
+      "catalogNo": "8.22100",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822100",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:29:50.318Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22100.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1214000
+        }
+      ]
+    },
+    {
+      "name": "Isopropyl myristate",
+      "catalogNo": "8.22102",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822102",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:30:35.740Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22102.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3020000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.22102.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 6657000
+        }
+      ]
+    },
+    {
+      "name": "1-Octadecene",
+      "catalogNo": "8.22112",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822112",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:31:24.134Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22112.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1882000
+        }
+      ]
+    },
+    {
+      "name": "Propionaldehyde",
+      "catalogNo": "8.22133",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822133",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:32:30.912Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22133.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1770000
+        }
+      ]
+    },
+    {
+      "name": "Tetraethylammonium hydroxide",
+      "catalogNo": "8.22149",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822149",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:34:49.994Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22149.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3711000
+        }
+      ]
+    },
+    {
+      "name": "TWEEN® 20",
+      "catalogNo": "8.22184",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822184",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:37:02.656Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22184.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1753000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.22184.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3143000
+        }
+      ]
+    },
+    {
+      "name": "TWEEN® 40",
+      "catalogNo": "8.22185",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822185",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:37:24.656Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22185.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2400000
+        }
+      ]
+    },
+    {
+      "name": "TWEEN® 60",
+      "catalogNo": "8.22186",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822186",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:37:46.805Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22186.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2400000
+        }
+      ]
+    },
+    {
+      "name": "TWEEN® 80",
+      "catalogNo": "8.22187",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822187",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:38:09.316Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22187.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2780000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.22187.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 6401000
+        }
+      ]
     }
   ]
 }
