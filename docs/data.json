@@ -16988,6 +16988,40 @@
           "price": 5742000
         }
       ]
+    },
+    {
+      "name": "Phenolsulfonic acid",
+      "catalogNo": "8.40015",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/840015",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T08:10:08.985Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.40015.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2578000
+        }
+      ]
+    },
+    {
+      "name": "(2-Dimethylaminoethyl) methacrylate",
+      "catalogNo": "8.40083",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/840083",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T08:13:53.192Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.40083.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3007000
+        }
+      ]
     }
   ]
 }
