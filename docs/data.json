@@ -14839,6 +14839,54 @@
           "price": 1936000
         }
       ]
+    },
+    {
+      "name": "(1-Methoxy-2-propyl) acetate",
+      "catalogNo": "8.18532",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818532",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T04:12:39.026Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18532.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1284000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.18532.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1710000
+        }
+      ]
+    },
+    {
+      "name": "Dipropylene glycol monomethyl ether",
+      "catalogNo": "8.18533",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818533",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T04:13:01.497Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18533.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 988000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.18533.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2108000
+        }
+      ]
     }
   ]
 }
