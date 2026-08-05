@@ -17039,6 +17039,23 @@
           "price": 4100000
         }
       ]
+    },
+    {
+      "name": "2-Methyl-3-buten-2-ol",
+      "catalogNo": "8.41089",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/841089",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T08:29:32.819Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.41089.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2060000
+        }
+      ]
     }
   ]
 }
