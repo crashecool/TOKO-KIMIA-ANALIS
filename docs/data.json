@@ -15655,6 +15655,129 @@
           "price": 4303000
         }
       ]
+    },
+    {
+      "name": "Dimethyl disulfide",
+      "catalogNo": "8.20791",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820791",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:16:30.385Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20791.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1575000
+        }
+      ]
+    },
+    {
+      "name": "2-Methylfuran",
+      "catalogNo": "8.20798",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820798",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:17:15.237Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20798.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3213000
+        }
+      ]
+    },
+    {
+      "name": "1-Methylnaphthalene",
+      "catalogNo": "8.20809",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820809",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:18:23.449Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20809.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 4118000
+        }
+      ]
+    },
+    {
+      "name": "2-Methyl-2,4-pentanediol",
+      "catalogNo": "8.20819",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820819",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:19:08.298Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20819.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1265000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.20819.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1566000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.20819.9025",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 12938000
+        }
+      ]
+    },
+    {
+      "name": "Isobutyl methyl ketone",
+      "catalogNo": "8.20820",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820820",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:19:30.866Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "8.20820.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3563000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.20820.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 20719000
+        }
+      ]
+    },
+    {
+      "name": "Dimethyl sulfide",
+      "catalogNo": "8.20833",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820833",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:21:04.143Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20833.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1643000
+        }
+      ]
     }
   ]
 }
