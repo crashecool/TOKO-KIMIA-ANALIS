@@ -15966,6 +15966,74 @@
           "price": 1586000
         }
       ]
+    },
+    {
+      "name": "Squalene",
+      "catalogNo": "8.21068",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/821068",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:46:16.193Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.21068.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 7127000
+        }
+      ]
+    },
+    {
+      "name": "(S)-(-)-α-Terpineol",
+      "catalogNo": "8.21078",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/821078",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:47:49.823Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.21078.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 8430000
+        }
+      ]
+    },
+    {
+      "name": "Tetraethyl orthotitanate",
+      "catalogNo": "8.21083",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/821083",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:48:12.715Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.21083.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 4160000
+        }
+      ]
+    },
+    {
+      "name": "2-Methyltetrahydrofuran",
+      "catalogNo": "8.21093",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/821093",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:49:40.864Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.21093.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2693000
+        }
+      ]
     }
   ]
 }
