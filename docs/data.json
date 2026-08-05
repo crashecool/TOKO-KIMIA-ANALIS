@@ -14945,6 +14945,81 @@
           "price": 1944000
         }
       ]
+    },
+    {
+      "name": "n-Amyl acetate",
+      "catalogNo": "8.18700",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818700",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T04:30:15.473Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18700.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1891000
+        }
+      ]
+    },
+    {
+      "name": "Bromoform",
+      "catalogNo": "8.18702",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818702",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T04:31:03.149Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18702.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 18473000
+        }
+      ]
+    },
+    {
+      "name": "Formaldehyde solution",
+      "catalogNo": "8.18708",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818708",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T04:32:35.261Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18708.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 923000
+        },
+        {
+          "size": "5 L",
+          "sku": "8.18708.5000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2145000
+        }
+      ]
+    },
+    {
+      "name": "2-Heptanone",
+      "catalogNo": "8.18711",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818711",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T04:33:43.536Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18711.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2719000
+        }
+      ]
     }
   ]
 }
