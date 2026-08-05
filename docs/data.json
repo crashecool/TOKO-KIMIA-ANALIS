@@ -15147,6 +15147,57 @@
           "price": 5900000
         }
       ]
+    },
+    {
+      "name": "Diisobutyl ketone",
+      "catalogNo": "8.18831",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818831",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T04:48:29.496Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18831.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1509000
+        }
+      ]
+    },
+    {
+      "name": "Ethylene glycol dimethacrylate",
+      "catalogNo": "8.18847",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818847",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T04:49:37.546Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18847.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3308000
+        }
+      ]
+    },
+    {
+      "name": "Hydrogen bromide",
+      "catalogNo": "8.18856",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818856",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T04:50:01.679Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18856.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2748000
+        }
+      ]
     }
   ]
 }
