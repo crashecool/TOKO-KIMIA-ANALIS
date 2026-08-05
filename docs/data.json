@@ -15020,6 +15020,133 @@
           "price": 2719000
         }
       ]
+    },
+    {
+      "name": "Acetic acid",
+      "catalogNo": "8.18755",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818755",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T04:40:03.291Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18755.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1268000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.18755.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2594000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.18755.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 9214000
+        }
+      ]
+    },
+    {
+      "name": "Ethyl alcohol, pure",
+      "catalogNo": "8.18760",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818760",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T04:41:35.026Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18760.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 296000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.18760.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 616000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.18760.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 3667000
+        }
+      ]
+    },
+    {
+      "name": "2-Propanol",
+      "catalogNo": "8.18766",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818766",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T04:41:57.654Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18766.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 211000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.18766.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 440000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.18766.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 2619000
+        }
+      ]
+    },
+    {
+      "name": "Cyclopentane",
+      "catalogNo": "8.18769",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818769",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T04:42:22.824Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18769.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2653000
+        }
+      ]
+    },
+    {
+      "name": "2,3-Butanediol",
+      "catalogNo": "8.18801",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818801",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T04:45:44.701Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18801.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 5900000
+        }
+      ]
     }
   ]
 }
