@@ -15621,6 +15621,40 @@
           "price": 9855000
         }
       ]
+    },
+    {
+      "name": "N-(Hydroxymethyl)acrylamide",
+      "catalogNo": "8.20675",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820675",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:03:17.041Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20675.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 8130000
+        }
+      ]
+    },
+    {
+      "name": "Indene",
+      "catalogNo": "8.20701",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820701",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:06:02.230Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20701.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 4303000
+        }
+      ]
     }
   ]
 }
