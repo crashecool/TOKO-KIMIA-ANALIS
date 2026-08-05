@@ -16508,6 +16508,311 @@
           "price": 6401000
         }
       ]
+    },
+    {
+      "name": "Acetone",
+      "catalogNo": "8.22251",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822251",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:40:56.663Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22251.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 207000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.22251.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 433000
+        },
+        {
+          "size": "5 L",
+          "sku": "8.22251.5011",
+          "status": "Indent",
+          "location": null,
+          "price": 778000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.22251.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 2575000
+        }
+      ]
+    },
+    {
+      "name": "Formic acid",
+      "catalogNo": "8.22254",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822254",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:41:45.759Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22254.1001",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 914000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.22254.2501",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1769000
+        }
+      ]
+    },
+    {
+      "name": "Isoamyl alcohol",
+      "catalogNo": "8.22255",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822255",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:42:12.773Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22255.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1641000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.22255.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3419000
+        }
+      ]
+    },
+    {
+      "name": "Aniline",
+      "catalogNo": "8.22256",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822256",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:42:35.639Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22256.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1321000
+        }
+      ]
+    },
+    {
+      "name": "Benzyl alcohol",
+      "catalogNo": "8.22259",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822259",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:43:19.248Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22259.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2023000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.22259.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3576000
+        }
+      ]
+    },
+    {
+      "name": "1-Butanol",
+      "catalogNo": "8.22262",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822262",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:44:25.499Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "8.22262.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2671000
+        }
+      ]
+    },
+    {
+      "name": "2-Butanol",
+      "catalogNo": "8.22263",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822263",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:44:47.255Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "8.22263.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2216000
+        }
+      ]
+    },
+    {
+      "name": "tert-Butanol",
+      "catalogNo": "8.22264",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822264",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:45:09.969Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22264.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1359000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.22264.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 15338000
+        }
+      ]
+    },
+    {
+      "name": "Chloroform",
+      "catalogNo": "8.22265",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822265",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:45:32.175Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22265.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 278000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.22265.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 561000
+        }
+      ]
+    },
+    {
+      "name": "2,4,6-Trimethylpyridine",
+      "catalogNo": "8.22267",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822267",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:46:20.730Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22267.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 7776000
+        }
+      ]
+    },
+    {
+      "name": "Dichloromethane",
+      "catalogNo": "8.22271",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822271",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:46:48.512Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22271.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 575000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.22271.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1197000
+        },
+        {
+          "size": "190 L",
+          "sku": "8.22271.9190",
+          "status": "Indent",
+          "location": null,
+          "price": 41928000
+        }
+      ]
+    },
+    {
+      "name": "N,N-Dimethylformamide",
+      "catalogNo": "8.22275",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822275",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:47:10.599Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.22275.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1556000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.22275.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3241000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.22275.6025",
+          "status": "Indent",
+          "location": null,
+          "price": 20703000
+        }
+      ]
+    },
+    {
+      "name": "Ethyl acetate",
+      "catalogNo": "8.22277",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/822277",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:47:33.362Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "8.22277.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1775000
+        }
+      ]
     }
   ]
 }
