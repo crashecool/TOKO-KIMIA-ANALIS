@@ -15409,6 +15409,23 @@
           "price": 2651000
         }
       ]
+    },
+    {
+      "name": "Dibutyltin dilaurate",
+      "catalogNo": "8.20421",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820421",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:34:55.293Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20421.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 3288000
+        }
+      ]
     }
   ]
 }
