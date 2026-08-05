@@ -15778,6 +15778,119 @@
           "price": 1643000
         }
       ]
+    },
+    {
+      "name": "cis-9-Octadecen-1-ol",
+      "catalogNo": "8.20923",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820923",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:29:04.993Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20923.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1345000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.20923.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2829000
+        }
+      ]
+    },
+    {
+      "name": "2-Octanol",
+      "catalogNo": "8.20925",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820925",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:29:27.656Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20925.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1119000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.20925.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2436000
+        }
+      ]
+    },
+    {
+      "name": "1-Octene",
+      "catalogNo": "8.20928",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820928",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:29:49.827Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20928.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1492000
+        }
+      ]
+    },
+    {
+      "name": "1-Octanol",
+      "catalogNo": "8.20931",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820931",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:30:11.748Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20931.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2574000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.20931.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 5249000
+        }
+      ]
+    },
+    {
+      "name": "n-Pentane",
+      "catalogNo": "8.20957",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820957",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:33:14.502Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20957.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2281000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.20957.2500",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 4751000
+        }
+      ]
     }
   ]
 }
