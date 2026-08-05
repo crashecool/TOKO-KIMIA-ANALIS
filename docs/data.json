@@ -14781,6 +14781,64 @@
           "price": 3568000
         }
       ]
+    },
+    {
+      "name": "Sodium methylate",
+      "catalogNo": "8.18194",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818194",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T08:13:26.048Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18194.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 835000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.18194.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1666000
+        }
+      ]
+    },
+    {
+      "name": "Tetra-n-butylammonium hydroxide",
+      "catalogNo": "8.18215",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818215",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-03T08:16:28.947Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18215.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 8082000
+        }
+      ]
+    },
+    {
+      "name": "Paraldehyde",
+      "catalogNo": "8.18255",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/818255",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T03:50:44.616Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.18255.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1936000
+        }
+      ]
     }
   ]
 }
