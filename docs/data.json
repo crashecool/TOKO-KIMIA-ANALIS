@@ -17022,6 +17022,23 @@
           "price": 3007000
         }
       ]
+    },
+    {
+      "name": "Span® 80",
+      "catalogNo": "8.40123",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/840123",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T08:18:56.557Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.40123.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 4100000
+        }
+      ]
     }
   ]
 }
