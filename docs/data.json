@@ -15273,6 +15273,23 @@
           "price": 2469000
         }
       ]
+    },
+    {
+      "name": "Dimethyl succinate",
+      "catalogNo": "8.20150",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820150",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:10:20.203Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20150.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1962000
+        }
+      ]
     }
   ]
 }
