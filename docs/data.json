@@ -15532,6 +15532,95 @@
           "price": 1499000
         }
       ]
+    },
+    {
+      "name": "Glutardialdehyde",
+      "catalogNo": "8.20603",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820603",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:54:06.422Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20603.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1264000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.20603.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 1833000
+        },
+        {
+          "size": "25 L",
+          "sku": "8.20603.9025",
+          "status": "Indent",
+          "location": null,
+          "price": 11063000
+        }
+      ]
+    },
+    {
+      "name": "Glyoxal",
+      "catalogNo": "8.20610",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820610",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:54:49.891Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20610.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1630000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.20610.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2042000
+        }
+      ]
+    },
+    {
+      "name": "1-Heptanol",
+      "catalogNo": "8.20624",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820624",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:57:01.534Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20624.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2032000
+        }
+      ]
+    },
+    {
+      "name": "n-Hexadecane",
+      "catalogNo": "8.20633",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/820633",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T05:57:49.018Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.20633.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 9855000
+        }
+      ]
     }
   ]
 }
