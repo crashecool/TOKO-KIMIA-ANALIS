@@ -16167,6 +16167,40 @@
           "price": 3099000
         }
       ]
+    },
+    {
+      "name": "2-Methyl-1,3-butadiene",
+      "catalogNo": "8.21258",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/821258",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:02:47.990Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.21258.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2229000
+        }
+      ]
+    },
+    {
+      "name": "Isooctane",
+      "catalogNo": "8.21627",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/821627",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:05:01.714Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.21627.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 1719000
+        }
+      ]
     }
   ]
 }
