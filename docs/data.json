@@ -16034,6 +16034,139 @@
           "price": 2693000
         }
       ]
+    },
+    {
+      "name": "Triethyl phosphate",
+      "catalogNo": "8.21141",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/821141",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:54:33.025Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.21141.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2003000
+        }
+      ]
+    },
+    {
+      "name": "1,2,4-Trichlorobenzene",
+      "catalogNo": "8.21152",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/821152",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:54:54.909Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.21152.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1587000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.21152.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 3738000
+        }
+      ]
+    },
+    {
+      "name": "Trimethylamine",
+      "catalogNo": "8.21177",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/821177",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:55:43.277Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.21177.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1156000
+        },
+        {
+          "size": "2.5 L",
+          "sku": "8.21177.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 2735000
+        }
+      ]
+    },
+    {
+      "name": "Trimethyl borate",
+      "catalogNo": "8.21180",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/821180",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:56:26.609Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.21180.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 2067000
+        }
+      ]
+    },
+    {
+      "name": "Trimethyl phosphate",
+      "catalogNo": "8.21184",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/821184",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:56:48.364Z",
+      "variants": [
+        {
+          "size": "2.5 L",
+          "sku": "8.21184.2500",
+          "status": "Indent",
+          "location": null,
+          "price": 6075000
+        }
+      ]
+    },
+    {
+      "name": "Tris(2-ethylhexyl) phosphate",
+      "catalogNo": "8.21202",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/821202",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T06:59:24.245Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.21202.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 1811000
+        }
+      ]
+    },
+    {
+      "name": "4′-Methylacetophenone",
+      "catalogNo": "8.21243",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/821243",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-05T07:01:16.977Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.21243.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 3099000
+        }
+      ]
     }
   ]
 }
