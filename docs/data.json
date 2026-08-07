@@ -17124,6 +17124,40 @@
           "price": 8460000
         }
       ]
+    },
+    {
+      "name": "Activator solution for DNA Synthesis",
+      "catalogNo": "8.57000",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/857000",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-07T05:28:18.864Z",
+      "variants": [
+        {
+          "size": "4 L",
+          "sku": "8.57000.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 13227000
+        }
+      ]
+    },
+    {
+      "name": "Capping Reagent A for DNA Synthesis",
+      "catalogNo": "8.57002",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/857002",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-07T05:28:44.746Z",
+      "variants": [
+        {
+          "size": "4 L",
+          "sku": "8.57002.4000",
+          "status": "Indent",
+          "location": null,
+          "price": 14584000
+        }
+      ]
     }
   ]
 }
