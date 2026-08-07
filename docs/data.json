@@ -17073,6 +17073,40 @@
           "price": 2279000
         }
       ]
+    },
+    {
+      "name": "1,1,2,2-Tetrachloroethane",
+      "catalogNo": "8.43948",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/843948",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-07T04:56:04.037Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.43948.1000",
+          "status": "Ready",
+          "location": "Jakarta Timur,ID",
+          "price": 2345000
+        }
+      ]
+    },
+    {
+      "name": "Tetrahydropyran",
+      "catalogNo": "8.43950",
+      "casNumber": null,
+      "url": "https://www.sigmaaldrich.com/ID/id/product/mm/843950",
+      "source": "live_scrape",
+      "scrapedAt": "2026-08-07T04:56:29.955Z",
+      "variants": [
+        {
+          "size": "1 L",
+          "sku": "8.43950.1000",
+          "status": "Indent",
+          "location": null,
+          "price": 4339000
+        }
+      ]
     }
   ]
 }
